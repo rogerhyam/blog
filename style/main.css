@@ -1,0 +1,54 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+}
+
+main{
+    max-width: 50em;
+    margin:auto;
+}
+
+main img{
+    max-width: 100%;
+    filter: drop-shadow(2px 2px 2px black);
+    margin:auto;
+}
+
+main p img{
+     display: block;
+     margin:auto;
+}
+
+#banner{
+    background-color: rgba(9, 41, 12, 1);
+    overflow: hidden;
+    padding: 1em;
+    color: white;
+}
+
+#banner a{
+    text-decoration: none;
+    color:white;
+}
+
+#yearSelect{
+    border-bottom: solid 2px rgba(9, 41, 12, 0.5);
+    margin-bottom: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 1em;
+    text-align: left;
+}
+
+#yearSelect a{
+    text-decoration: none;
+    color: rgba(9, 41, 12, 1);
+}
+#yearSelect a:hover{
+    color: rgba(9, 41, 12, 0.5);
+}
+
+#nextPrev{
+    padding-top: 3em;
+    padding-bottom: 8em;
+}

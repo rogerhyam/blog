@@ -1,0 +1,1 @@
+php -S localhost:1839 -c dev.ini index.php
