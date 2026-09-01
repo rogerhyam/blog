@@ -9,7 +9,7 @@ tags:
 coverImage: "470082.jpg"
 ---
 
-\[caption id="attachment\_1343" align="alignleft" width="298"\][![](images/curtis-518x640.jpg "curtis")](http://www.hyam.net/blog/wp-content/uploads/2011/08/curtis.jpg) William Curtis (1746-1799)\[/caption\]
+\[caption id="attachment\_1343" align="alignleft" width="298"\]![](images/curtis-518x640.jpg "curtis") William Curtis (1746-1799)\[/caption\]
 
 This is a sideline to my working on the Edinburgh Rhododendron monographs.
 
@@ -25,7 +25,7 @@ But a happy by-product of the process was the fact that I downloaded and parsed 
 
 I have included the URLs to the resources in BHL although these are just trivial concatenations of the page IDs or item IDs and an http prefix.<!--more-->
 
-\[caption id="attachment\_1346" align="alignright" width="248"\][![](images/470082-381x640.jpg "470082")](http://www.hyam.net/blog/wp-content/uploads/2011/08/470082.jpg) Rhododendron neriiflorum\[/caption\]
+\[caption id="attachment\_1346" align="alignright" width="248"\]![](images/470082-381x640.jpg "470082") Rhododendron neriiflorum\[/caption\]
 
 Unfortunately the names of the taxa are not included as I was solving the problem of getting from a citation to an image - I already had the name. It would be tempting to try and calculate the names for each of the illustrations but I can't justify doing this right now so it is an exercise left to the reader.  The problem is the illustration in Curtis may come before or after the text on the species although on the plus side there is only one species per page. What I would try doing is:
 

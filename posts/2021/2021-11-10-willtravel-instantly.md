@@ -12,7 +12,7 @@ Because my [Lomografloc](https://shop.lomography.com/en/lomo-graflok-instant-bac
 
 
 
-[![](images/PXL_20211110_124432880-768x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/11/PXL_20211110_124432880-scaled.jpg)
+![](images/PXL_20211110_124432880-768x1024.jpg)
 
 
 
@@ -24,7 +24,7 @@ First light on the new camera was a brief wander around the tourist sites of Edi
 
 
 
-[![](images/PXL_20211106_152253549-1024x768.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/11/PXL_20211106_152253549-scaled.jpg)
+![](images/PXL_20211106_152253549-1024x768.jpg)
 
 
 
@@ -36,7 +36,7 @@ The printer is basically an Ender 3 clone. I used Ender 3 as the default option 
 
 
 
-[![](images/PXL_20211106_202142254-1024x768.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/11/PXL_20211106_202142254-scaled.jpg)
+![](images/PXL_20211106_202142254-1024x768.jpg)
 
 
 
@@ -48,7 +48,7 @@ There is a small amount of gluing.
 
 
 
-[![](images/PXL_20211107_085048819-1.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/11/PXL_20211107_085048819-1.jpg)
+![](images/PXL_20211107_085048819-1.jpg)
 
 
 

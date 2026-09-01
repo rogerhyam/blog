@@ -9,7 +9,7 @@ coverImage: "DSCF6638-copy.jpg"
 
 Finally coming to the end of taking excess holiday allowance. Married Gustaf and Ainsley on Saturday 31st at St Marks
 
-[![](images/DSCF6638-copy-1024x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2018/04/DSCF6638-copy.jpg)
+![](images/DSCF6638-copy-1024x1024.jpg)
 
 ### Marathon Monk Posts by Date
 

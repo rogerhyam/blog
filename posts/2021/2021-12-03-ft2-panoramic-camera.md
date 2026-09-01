@@ -6,49 +6,25 @@ categories:
 coverImage: "img20211128_09383580.jpg"
 ---
 
-
-
-[![](images/img20211128_09383580-1024x252.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/12/img20211128_09383580.jpg)
-
-
+![](images/img20211128_09383580-1024x252.jpg)
 
 Yet another test shot. Note uneven dev at the top because I was tight with the developer!
-
-
-
-
 
 🇺🇦 In February 2022 Russia invaded Ukraine. Playing with old Russian military inspired tech isn't fun any more. My FT2 will rest in the cupboard till better times. Thoughts and good wishes are with the people of Ukraine and those in Russia who have been dragged into this madness.
 
 I have spent some time 3D printing film cassettes for my KMZ FT-2 Panoramic Camera. I've submitted the designs to [Thingiverse](https://www.thingiverse.com/) so that others can use them but am also putting everything here for safety. You can see the 3D models on Thingiverse [here](https://www.thingiverse.com/thing:5154356) or download the from here:
 
-[FT-2\_Cassettes\_Frames](http://www.hyam.net/blog/wp-content/uploads/2021/12/FT-2_Cassettes_Frames.zip)[Download](http://www.hyam.net/blog/wp-content/uploads/2021/12/FT-2_Cassettes_Frames.zip)
+[FT-2\_Cassettes\_Frames](FT-2_Cassettes_Frames.zip)
 
-
-
-[![](images/PXL_20211203_184827774-1024x768.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/12/PXL_20211203_184827774-scaled.jpg)
-
-
+![](images/PXL_20211203_184827774-1024x768.jpg)
 
 Work in progress. The original brass cassette is in the foreground. The plastic ones are near identical externally but the spindles are different.
 
-
-
-
-
 The FT-2 is a crazy camera from 1950's USSR. The predecessor to the far more common Horizont and Horizon 202 panoramic cameras of the 1980s. There's quite a lot about it online. This is a nice [article on Kosmo Foto](https://kosmofoto.com/2020/05/kmz-ft-2-review-life-on-the-wide-side/) or there is one on [Camera Wiki](http://camera-wiki.org/wiki/FT-2) or on [Living Image](http://licm.org.uk/livingImage/KMZ_FT-2.html).
-
-
 
 ![Фёдор Васильевич Токарев.jpg](images/%D0%A4%D1%91%D0%B4%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%A2%D0%BE%D0%BA%D0%B0%D1%80%D0%B5%D0%B2.jpg)
 
-
-
 Fedor Tokarev
-
-
-
-
 
 The legend varies depending on who is telling it. Basically [Fedor Vasilievich Tokarev](https://en.wikipedia.org/wiki/Fedor_Tokarev) was a weapons designer in the early USSR. He was a mate of Jo Stalin (you kind of needed to be). He designed the pistol and rifle used extensively by the Russian armed forces during the [Great Patriotic War](https://en.wikipedia.org/wiki/Great_Patriotic_War_\(term\)) (a.k.a. WWII). He had an idea for a camera, probably to survey the effects of artillery damage, and at some point in the 1940s (probably after the war) he asked the guys at KMZ (Красногорский механический завод) to make it. They didn't want to but, because this was Stalinist Russia, they put it into production. By the 1950s there was much need for foreign currency so export versions were produced and sold in the West. KMZ are better know for the Zorki ranger finders and Zenti SLR cameras. Today Zenit even sell [an M series Leica under license](https://zenit.store/products/zenit-m-camera-and-35mm-f-1-0-lens-kit-limited-edition). The FT stands for _Fotoapparat Tokareva_ (_Фотоаппарат Токарева_) or Tokarev's Kamera. The pistol he designed was the TT-33 or just called the Tokareva. It is a little like Kalashnikov in the next generation of weapons designers but unfortunately [Mikhail Kalashnikov](https://en.wikipedia.org/wiki/Mikhail_Kalashnikov) did not design a camera, at least I don't think he did.
 
@@ -96,17 +72,9 @@ This can be used to scan on an Epson V800. It is about the right focus distance.
 
 You can use this to stand the scanner frame on a regular light table if you are going to digitise with a camera. I designed it to fit the Intrepid 4x5 enlarger light source which I use fo digitising regular 35mm film.
 
-
-
-[![](images/PXL_20211204_085935238-smaller-1024x697.jpeg)](http://www.hyam.net/blog/wp-content/uploads/2021/12/PXL_20211204_085935238-smaller.jpeg)
-
-
+![](images/PXL_20211204_085935238-smaller-1024x697.jpeg)
 
 Maybe not as elegant as the brass original but they do the job.
-
-
-
-
 
 ### Tips
 

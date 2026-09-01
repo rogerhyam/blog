@@ -10,7 +10,7 @@ Whilst we were under periods of looser Covid restriction during 2020 and 2021 I 
 
 
 
-[![](images/PXL_20220608_192230169-1024x768.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/06/PXL_20220608_192230169-scaled.jpg)
+![](images/PXL_20220608_192230169-1024x768.jpg)
 
 
 
@@ -22,7 +22,7 @@ I used hand cut and coated 4"x5" glass plates.
 
 
 
-[![](images/img20200922_21483627-3-2-819x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/06/img20200922_21483627-3-2.jpg)
+![](images/img20200922_21483627-3-2-819x1024.jpg)
 
 
 
@@ -34,7 +34,7 @@ Perhaps my favourite tree and one of the first I photographed. Grange Cemetery.
 
 
 
-[![](images/img20200928_14533564-3-819x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/06/img20200928_14533564-3.jpg)
+![](images/img20200928_14533564-3-819x1024.jpg)
 
 
 
@@ -46,7 +46,7 @@ The trigger for me was to concentrate on the trees and let the gravestones look 
 
 
 
-[![](images/img20201215_21471241-3-819x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/06/img20201215_21471241-3.jpg)
+![](images/img20201215_21471241-3-819x1024.jpg)
 
 
 
@@ -58,7 +58,7 @@ Grange Cemetery is only a few yards from my house and so was the main destinatio
 
 
 
-[![](images/img20201219_22214875-2-819x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/06/img20201219_22214875-2.jpg)
+![](images/img20201219_22214875-2-819x1024.jpg)
 
 
 
@@ -70,7 +70,7 @@ Juxtaposition at Dene Cemetery. I visited in mid winter and must go back again.
 
 
 
-[![](images/img20201229_17082794-2-819x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/06/img20201229_17082794-2.jpg)
+![](images/img20201229_17082794-2-819x1024.jpg)
 
 
 
@@ -82,7 +82,7 @@ Grange Cemetery surrounds Marchmont St Giles (not to be confused with St Giles c
 
 
 
-[![](images/img20210101_21022378-2-819x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/06/img20210101_21022378-2.jpg)
+![](images/img20210101_21022378-2-819x1024.jpg)
 
 
 
@@ -94,7 +94,7 @@ Newington Cemetery has a very different atmosphere and is quite overgrown in par
 
 
 
-[![](images/PXL_20220608_191823656-906x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/06/PXL_20220608_191823656-scaled.jpg)
+![](images/PXL_20220608_191823656-906x1024.jpg)
 
 
 

@@ -10,13 +10,13 @@ I've been putting things on [Instagram](https://www.instagram.com/edinburgh_ambr
 
 As we are still in lockdown with a "stay at home" order in effect I've been playing with my Sinar P studio camera. There is precious little room in the flat so have to I set up a still life in the same box room I use to develop the plates in. This means I can shoot and develop and learn about how the plates are responding all at the same time.
 
-[![](images/img20210202_16102567-819x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/03/img20210202_16102567.jpg)
+![](images/img20210202_16102567-819x1024.jpg)
 
 One of my main frustrations in working this way is that I have to have a large diffuse light source. This is because the only way to get enough actinic (Blue+UV) light is to use several compact florescent daylight bulbs plus a UV LED "disco" bulb. These are quite large and so act like a soft box. Any modifiers between the source and the subject block too much light. Needing f/numbers to be high to get enough depth of field means long exposures. Ideally it would be hours but I wimp out at about 30 minutes or it gets tedious.
 
 
 
-[![](images/PXL_20210120_173132278-1024x1002.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/03/PXL_20210120_173132278-scaled.jpg)
+![](images/PXL_20210120_173132278-1024x1002.jpg)
 
 
 
@@ -30,7 +30,7 @@ I tried making a painter's still life set up where the light could be more contr
 
 
 
-[![](images/img20210120_21013333-828x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/03/img20210120_21013333.jpg)
+![](images/img20210120_21013333-828x1024.jpg)
 
 
 
@@ -42,7 +42,7 @@ Painter's lighting leads to very thin negs
 
 
 
-[![](images/img20210211_15392358-819x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/03/img20210211_15392358.jpg)
+![](images/img20210211_15392358-819x1024.jpg)
 
 
 
@@ -54,7 +54,7 @@ Even without light modifiers and lots of movements depth of field is a challenge
 
 
 
-[![](images/img20210207_18034141-819x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/03/img20210207_18034141.jpg)
+![](images/img20210207_18034141-819x1024.jpg)
 
 
 

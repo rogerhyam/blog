@@ -6,7 +6,7 @@ categories:
   - "misc"
 ---
 
-[![](images/island.jpg "island")](http://www.hyam.net/blog/wp-content/uploads/2011/01/island.jpg)[BBC Radio 4](http://www.bbc.co.uk/radio4/) have a programme called the [Moral Maze](http://www.bbc.co.uk/programmes/b006qk11) in which a small team of people question expert witnesses and discuss the moral aspects of a particular topical issue. I don't usually listen because it typically produces 'more heat than light' with people shouting things like 'It is me that asks the questions!'.
+![](images/island.jpg "island")[BBC Radio 4](http://www.bbc.co.uk/radio4/) have a programme called the [Moral Maze](http://www.bbc.co.uk/programmes/b006qk11) in which a small team of people question expert witnesses and discuss the moral aspects of a particular topical issue. I don't usually listen because it typically produces 'more heat than light' with people shouting things like 'It is me that asks the questions!'.
 
 Last night I did listen because the programme was inspired by the proposal to have a national measure of General Well-Being (GWB). The debate was framed around: ["Setting aside the question can you measure happiness - the moral question is should you?"](http://www.bbc.co.uk/programmes/b00xhj84)
 

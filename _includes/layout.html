@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/style/main.css" rel="stylesheet">
+    <title>Roger Hyam</title>
+</head>
+<body>
+  
+    <div id="banner">
+          <a href="/">Roger Hyam: The Blog</a>
+    </div>
+    <div id="yearSelect">
+       
+        <a href="/">Home</a> 
+        {% for post in collections.year-page reversed %}
+         | <a href="{{post.url}}">{{post.data.year}}</a> 
+        {% endfor %}
+
+
+    </div>
+    <main>
+    <p>{{ date | date: '%A %d %B %Y', 'UCT' }}</p>
+    <h1>{{ title }}</h1>
+
+    {{ content }}
+    
+    <div id="nextPrev" >
+        {% assign previousPost = collections.post | getPreviousCollectionItem %}
+        {% assign nextPost = collections.post | getNextCollectionItem %}
+        {% if previousPost %}<a href="{{ previousPost.url }}" style="float:left;">&lt;- {{ previousPost.data.title }}</a>{% endif %}
+        {% if nextPost %}<a href="{{ nextPost.url }}" style="float:right;">{{ nextPost.data.title }} -&gt;</a> {% endif %}
+    </div>
+
+    </main>
+
+    <script src="/scripts/main.js"></script>
+</body>
+
+</html>

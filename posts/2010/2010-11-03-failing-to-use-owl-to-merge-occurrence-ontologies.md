@@ -5,7 +5,7 @@ categories:
   - "biodiv"
 ---
 
-[![](images/crow-640x632.jpg "Crow as Sea Side")](http://www.hyam.net/blog/wp-content/uploads/2010/11/crow.jpg)
+![](images/crow-640x632.jpg "Crow as Sea Side")
 
 I am not sure how to say this. Either:
 

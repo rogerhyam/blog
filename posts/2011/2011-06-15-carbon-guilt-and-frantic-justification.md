@@ -5,7 +5,7 @@ categories:
   - "misc"
 ---
 
-[![](images/van-1.jpg "van (1)")](http://www.hyam.net/blog/wp-content/uploads/2011/06/van-1.jpg) Generally we are pretty 'right on' as a family. We live in town in a two bed flat with all A-rated appliances - a condensing boiler etc. The building is old but we don't have much external wall space and we have argon filled double glazing and draft proofing in most of the old sach windows. We are in a conservation area so can't change them to anything else.
+![](images/van-1.jpg "van (1)") Generally we are pretty 'right on' as a family. We live in town in a two bed flat with all A-rated appliances - a condensing boiler etc. The building is old but we don't have much external wall space and we have argon filled double glazing and draft proofing in most of the old sach windows. We are in a conservation area so can't change them to anything else.
 
 We are vegetarian though not vegan and we don't fly for recreation. I have to fly for work sometimes and one day I will take the kids on a plane somewhere just so they have the experience. They are the only ones in their classes at school who haven't been on an aircraft and some of their class mates don't believe them when they say so.<!--more-->
 

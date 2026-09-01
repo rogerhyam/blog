@@ -10,7 +10,7 @@ I had a few days off after the Christmas and New Year and couldn't resit another
 
 
 
-[![](images/PXL_20230108_110810404-1-1024x732.jpg)](http://www.hyam.net/blog/wp-content/uploads/2023/01/PXL_20230108_110810404-1-scaled.jpg)
+![](images/PXL_20230108_110810404-1-1024x732.jpg)
 
 
 
@@ -24,7 +24,7 @@ I wanted to create a usable camera rather than a perfect restoration so replaced
 
 
 
-[![](images/PXL_20221220_210234241-1024x768.jpg)](http://www.hyam.net/blog/wp-content/uploads/2023/01/PXL_20221220_210234241-scaled.jpg)
+![](images/PXL_20221220_210234241-1024x768.jpg)
 
 
 
@@ -38,7 +38,7 @@ Unsurprisingly the bellows were rotting so I ordered replacement, synthetic bell
 
 
 
-[![](images/PXL_20221220_210243247-1-962x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2023/01/PXL_20221220_210243247-1-scaled.jpg)
+![](images/PXL_20221220_210243247-1-962x1024.jpg)
 
 
 
@@ -50,7 +50,7 @@ Measuring up for new bellows
 
 
 
-[![](images/PXL_20221220_210156162-1024x768.jpg)](http://www.hyam.net/blog/wp-content/uploads/2023/01/PXL_20221220_210156162-scaled.jpg)
+![](images/PXL_20221220_210156162-1024x768.jpg)
 
 
 
@@ -62,7 +62,7 @@ The Victo is double extension so can handle lenses up to about 300mm
 
 
 
-[![](images/PXL_20230106_095611048-1001x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2023/01/PXL_20230106_095611048-scaled.jpg)
+![](images/PXL_20230106_095611048-1001x1024.jpg)
 
 
 
@@ -74,7 +74,7 @@ Gluing the bellows
 
 
 
-[![](images/15872266100_e8c609eaff_o.jpg)](http://www.hyam.net/blog/wp-content/uploads/2023/01/15872266100_e8c609eaff_o.jpg)
+![](images/15872266100_e8c609eaff_o.jpg)
 
 
 
@@ -90,7 +90,7 @@ I have two period appropriate lenses to try out that I'll maybe write more about
 
 
 
-[![](images/PXL_20230117_134911838-1024x701.jpg)](http://www.hyam.net/blog/wp-content/uploads/2023/01/PXL_20230117_134911838.jpg)
+![](images/PXL_20230117_134911838-1024x701.jpg)
 
 
 

@@ -7,7 +7,7 @@ categories:
   - "mindfulness_buddhism"
 ---
 
-[![](images/bangor_card001-640x359.jpg "bangor_card001")](http://www.hyam.net/blog/wp-content/uploads/2010/10/bangor_card001.jpg)
+![](images/bangor_card001-640x359.jpg "bangor_card001")
 
 I just completed my first weekend on the [MSc in Mindfulness Based Approaches](http://www.bangor.ac.uk/mindfulness/msc_mindfulness.php) at Bangor University. It was a wonderful three days. I enjoyed communing with like minded people and learnt a great deal - notably some of the major differences between psychology research and taxonomy. In response to one of my questions the lecturer pointed out that most psychology research papers are out of date within two to five years and so there is no point in building a big bibliographic system. Taxonomists struggle to maintain their 250 year back catalogue.
 

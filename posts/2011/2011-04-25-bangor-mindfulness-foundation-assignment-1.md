@@ -14,4 +14,4 @@ I can take the rules and regulations of the various Buddhist traditions I have h
 
 I would like to think that if I had got an A+ I'd have still made these comments!
 
-[Hyam\_Foundation\_Module\_1\_blog\_version.pdf](http://www.hyam.net/blog/wp-content/uploads/2011/04/Hyam_Foundation_Module_1_blog_version.pdf)
+[Hyam\_Foundation\_Module\_1\_blog\_version.pdf](Hyam_Foundation_Module_1_blog_version.pdf)

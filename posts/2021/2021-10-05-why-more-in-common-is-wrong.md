@@ -7,7 +7,7 @@ categories:
 
 There is a movement in "Britain" that, in modern times, was kicked off by Gordon Brown with his 2006 speech on "British Values". I believe this threw fuel on the fire of the nationalist project that eventually lead to Brexit - which is another story. Recently an organisation called [More in Common](https://www.moreincommon.com/) wrote a report entitled [Britains Choice](https://www.britainschoice.uk/). It is three hundred pages long and is more of a market research document than a piece of research. It divides "Britain" into seven groups with different but overlapping values and uses this as an argument for the people of "Britain" to pull together.
 
-I have to write "Britain" in scare quotes because its use is ambiguous. The report failed to get data from Northern Ireland because their partner didn't follow protocols or the data that was returned was totally out of whack with what was expected. But the report still claims to be about the UK as a whole. It purports to include NI on the basis anecdotal evidence. It uses the term "Britons" on 106 of the 291 pages and UK on 174 pages. NI is constitutionally not part of Britain but the people who live there are British. They are Britons. A report that claims to show how united the people of "Britain" (or is it the UK?) failing to include data on the part of the UK that is historically most divided, to the point of armed conflict, has to ring alarm bells. Just like Gordon Brown's speech in 2006 this is a piece of political propaganda. The subtext, the dog whistle if you like, is that we have more in common with the other people in "Briton" than we do with foreigners. That is why this is actually a nationalist enterprise.
+I have to write "Britain" in scare quotes because its use is ambiguous. The report failed to get data from Northern Ireland because their partner didn't follow protocols or the data that was returned was totally out of whack with what was expected. But the report still claims to be about the UK as a whole. It purports to include NI on the basis anecdotal evidence. It uses the term "Britons" on 106 of the 291 pages and UK on 174 pages. NI is constitutionally not part of Britain but the people who live there are British. They are Britons. A report that claims to show how united the people of "Britain" (or is it the UK?) failing to include data on the part of the UK that is historically most divided, to the point of armed conflict, has to ring alarm bells. Just like Gordon Brown's speech in 2006 this is a piece of political propaganda. The subtext, the dog whistle if you like, is that we have more in common with the other people in "Britain" than we do with foreigners. That is why this is actually a nationalist enterprise.
 
 You may think this is all irrelevant but Gordon Brown is still popping up quoting this stuff and being reported in the press. It is designed as ammunition for politicians and the media to use and they will use it and it will change people's behaviour.
 
@@ -56,7 +56,7 @@ I downloaded the latest ESS human values data (release 9 version 3 for 2018). Th
 
 
 
-[![](images/fan_crop.png)](http://www.hyam.net/blog/wp-content/uploads/2021/10/fan_crop.png)
+![](images/fan_crop.png)
 
 
 
@@ -74,7 +74,7 @@ I did another analysis averaging and then clustering by regions of nations as th
 
 
 
-[![](images/Screenshot-2021-10-05-at-10.32.14-1024x952.png)](http://www.hyam.net/blog/wp-content/uploads/2021/10/Screenshot-2021-10-05-at-10.32.14.png)
+![](images/Screenshot-2021-10-05-at-10.32.14-1024x952.png)
 
 
 
@@ -86,11 +86,11 @@ UK kind-of clustering together but Scotland is nearer The Netherlands and London
 
 
 
-[![](images/Screenshot-2021-10-05-at-10.35.00-1024x630.png)](http://www.hyam.net/blog/wp-content/uploads/2021/10/Screenshot-2021-10-05-at-10.35.00.png)
+![](images/Screenshot-2021-10-05-at-10.35.00-1024x630.png)
 
 
 
-London is way off the scale clustering regions of Ireland, Spain, Poland etc
+London is way off the scale clustering with regions of Ireland, Spain, Poland etc
 
 
 
@@ -108,5 +108,5 @@ This is really, really crude back of an envelope hacking but I hope I have done 
 
 ## Conclusion
 
-1. Don't use values to define nations it is dumb.
+1. Don't use values to define nations, it is dumb.
 2. I should not waste my evenings doing this kind of thing but read a good book and go to bed instead.

@@ -10,7 +10,7 @@ I had a week long work trip to Sofia, Bulgaria to attend the [TDWG 2022 Conferen
 
 
 
-[![](images/PXL_20221105_130658806-1024x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/11/PXL_20221105_130658806.jpg)
+![](images/PXL_20221105_130658806-1024x1024.jpg)
 
 
 
@@ -24,7 +24,7 @@ I have a "[Render unto Caesar](https://en.wikipedia.org/wiki/Render_unto_Caesar)
 
 
 
-[![](images/PXL_20221102_103214526-1024x768.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/11/PXL_20221102_103214526.jpg)
+![](images/PXL_20221102_103214526-1024x768.jpg)
 
 
 

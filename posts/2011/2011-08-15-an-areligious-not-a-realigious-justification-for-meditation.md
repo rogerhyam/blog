@@ -6,7 +6,7 @@ categories:
   - "misc"
 ---
 
-[![](images/road-1-640x360.jpg "road (1)")](http://www.hyam.net/blog/wp-content/uploads/2011/08/road-1.jpg)
+![](images/road-1-640x360.jpg "road (1)")
 
 If I start to talk about how the world is and therefore how we should best live there is a danger you will dismiss what I say as either playing with ideas that have no relation to real life (philosophy) or trying to impose some mumbo jumbo from a possible imaginary deity (religion). Many people are reluctant to explore this stuff because it will either prove a complete waste of time or overturn a belief system that they have accepted since childhood.
 

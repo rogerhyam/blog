@@ -7,7 +7,7 @@ categories:
 coverImage: "20170503-DSCF6488.jpg"
 ---
 
-[![](images/20170503-DSCF6488-1024x576.jpg)](http://www.hyam.net/blog/wp-content/uploads/2017/07/20170503-DSCF6488.jpg)
+![](images/20170503-DSCF6488-1024x576.jpg)
 
 Just to reiterate I'm not a monk and I'm not running 26.219 mile marathons - which makes the title a bit of lie. I'm walking to work as a Buddhist training exercise inspired by the Tendai  Buddhist Marathon Monks of Mt Hiei in Japan.
 

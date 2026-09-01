@@ -26,7 +26,7 @@ Of these six stages the resolution is only pertinent to phases 3, 4 and 5 - so w
 
 ## Visual Acuity and DPI
 
-[![](images/what_res_pic.png "Angle subtended at eye")](http://www.hyam.net/blog/wp-content/uploads/2008/11/what_res_pic.png)
+![](images/what_res_pic.png "Angle subtended at eye")
 
 Visual acuity is the ability to see clearly. ([Here](http://en.wikipedia.org/wiki/Visual_acuity) is the Wikipedia page to save you searching for it). Some one with good normal vision (20/20) can distinguish two lines when the angle of view subtended at the eye is 1 arc minute (1/60th of a degree or 0.016667 degrees). This is under ideal, high contrast conditions where the lines are vertical or horizontal. Under other conditions discrimination will be worse. The nearer they are to the subject (down to the minimum distance they can focus) the smaller the things they can see - somewhat obvious - but here we have a rule of thumb for what normal people can distinguish and we can use good old high school trigonometry to calculate what they should be able to see at different viewing distances.  How does this relate to dpi?
 

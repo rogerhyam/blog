@@ -8,7 +8,7 @@ categories:
 coverImage: "20170228-DSCF6332.jpg"
 ---
 
-[![](images/20170228-DSCF6332-1024x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2017/06/20170228-DSCF6332.jpg)
+![](images/20170228-DSCF6332-1024x1024.jpg)
 
 I remember a story about a guy who set off to walk from the centre of the USA to the ocean relying on the kindness of strangers for support. He was curious to learn more about his country and himself. At first he found it very difficult. People were suspicious and unhelpful. Then he learned to tell a white lie. He started saying he was doing it for a bet. People opened up. He was trusted and supported.
 

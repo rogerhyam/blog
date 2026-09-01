@@ -6,13 +6,13 @@ categories:
 coverImage: "20170714-DSCF6829.jpg"
 ---
 
-[![](images/20170714-DSCF6829-1024x576.jpg)](http://www.hyam.net/blog/wp-content/uploads/2017/07/20170714-DSCF6829.jpg)
+![](images/20170714-DSCF6829-1024x576.jpg)
 
 I often hear people say that there are too many people in the world or even that responsible “people” should have fewer children. There is never the opportunity to explain fully why this is such an inappropriate thing to say but now I've had a rainy day with no distractions I can share my explanation. It comes in four parts.
 
 **Humanity.** Since the abolition of slavery it has been wrong to consider people goods and chattels - obviously it was wrong before then but it was legal. People are not products to be bought and sold. Once someone exists they can’t be counted or valued like other consumer products. A child is an equal human being. Whether they are first born or fourth born they have the same rights to love and respect. If we say it is wrong for a mother to have multiple children we are saying the n’th child is a product of a “crime” or at least an error of judgement. In some way they don’t have as much right to be here as the 1st child. This is wrong. Children happen. Educated, wealthy people can use contraception and termination to control the number of children they have but if they are coerced into that number they are not making a free choice. A woman’s right to choose goes both ways or it is no choice at all.  Having children is a biological  imperative like falling in love or feeling grief it is not a simple consumer choice like an organic cotton t-shirt vs a nylon hoody. Portraying it as such undermines both the parent’s and the child’s humanity.
 
-\[caption id="attachment\_3533" align="aligncenter" width="747"\][![](images/20170712-DSCF6748-1024x581.jpg)](http://www.hyam.net/blog/wp-content/uploads/2017/07/20170712-DSCF6748.jpg) "Paths are made by walking" - other people walking\[/caption\]
+\[caption id="attachment\_3533" align="aligncenter" width="747"\]![](images/20170712-DSCF6748-1024x581.jpg) "Paths are made by walking" - other people walking\[/caption\]
 
 **Wealth & Power.** The birth rate is falling or below replacement level in all industrialised nations. There is no need to advocate that people in these countries cut the number of kids they are having as they have already done it. In fact the fastest way to cut the birthrate of a country is to educate women and increase living standards. So if you are white and/or rich (in global terms) and you say that “people” should have fewer children you really mean poor people of colour should have fewer children not people like you. This might feel a bit racist. Even if you are comfortable with saying that people in less developed countries should have fewer kids you have to admit that the best way to achieve this is not to tell them to have fewer kids (which is inhumane and doesn’t work) but to advocate for women’s empowerment.
 

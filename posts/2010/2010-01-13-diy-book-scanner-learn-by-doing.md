@@ -27,7 +27,7 @@ Setting up involves lying on the floor on your back to focus the camera and line
 
 In operation I have an electronic cable release on the floor that I press with my big toe keeping both hands free to manipulate the book. I take the right page, turn the book round and take the left page (the other way up), pick the book up and turn the page, repeat right and left. I did a 228 page book in under 30 minutes like this. The book was _Gotama The Buddha_ by Ananda Coomaraswamy which I believe is out of copyright.
 
-The resulting images are sideways on and need to be rotated 90 degrees alternately left or right. I wrote a PHP5 command line script ([process\_src.php](http://www.hyam.net/blog/wp-content/uploads/2010/01/process_src.php_.zip)) to do this. It will also do simple cropping. There is an example page image shown.
+The resulting images are sideways on and need to be rotated 90 degrees alternately left or right. I wrote a PHP5 command line script ([process\_src.php](process_src.php_.zip)) to do this. It will also do simple cropping. There is an example page image shown.
 
 This combination means I can get from physical book to page images pretty quickly for a small book. I can flick through the pages on my laptop but they are nothing without OCR and I have run out of time! The brief attempts I have had at OCRing some of the page images have been pretty disappointing.
 

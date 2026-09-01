@@ -6,7 +6,7 @@ categories:
   - "mindfulness_buddhism"
 ---
 
-[![](images/tnh.jpg "tnh")](http://www.hyam.net/blog/wp-content/uploads/2011/05/tnh.jpg)
+![](images/tnh.jpg "tnh")
 
 On reflection one of the reasons I enrolled in the [Bangor Mindfulness](http://www.bangor.ac.uk/mindfulness/) course was that I felt a need for some kind of accreditation before I could teach. In fact, if I want to teach in the public sector, I probably do need such an accreditation. We are as well to admit the world contains charlatans, fakes, hypocrites and quacks even if we don't actually point the finger at anyone.  I wouldn't expect my doctor to refer me to someone who hasn't been checked out or my kids to be taught by a fraud so I have to admit that - if public money is to be spent on teaching people mindfulness - the trainers will need to have some kind of kite mark or branding.
 

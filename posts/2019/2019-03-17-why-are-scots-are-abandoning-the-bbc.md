@@ -16,7 +16,7 @@ I know a few people with NLN status and wondered just how many addresses have NL
 
 There was a house of commons briefing on TV License statistics in January 2019:
 
-[TV Licence Fee Statistics](http://www.hyam.net/blog/wp-content/uploads/2019/03/CBP-8101-1.pdf)[Download](http://www.hyam.net/blog/wp-content/uploads/2019/03/CBP-8101-1.pdf)
+[TV Licence Fee Statistics](CBP-8101-1.pdf)[Download](CBP-8101-1.pdf)
 
 This does not mention NLN status at all but does make interesting claims about Scots being the worst evaders in the UK. Apparently Scotland has a 10% evasion rate compared to 6% for England and Wales and 9% for Northern Island.
 
@@ -34,7 +34,7 @@ Snapshot from "TV Licence Fee Statistics"
 
 The source of that claim was by the National Audit Office (NAO) from 2017 (actually completed December 2016):
 
-[BBC TV licence fee collection](http://www.hyam.net/blog/wp-content/uploads/2019/03/BBC-TV-licence-fee-collection.pdf)[Download](http://www.hyam.net/blog/wp-content/uploads/2019/03/BBC-TV-licence-fee-collection.pdf)
+[BBC TV licence fee collection](BBC-TV-licence-fee-collection.pdf)[Download](BBC-TV-licence-fee-collection.pdf)
 
 
 
@@ -52,7 +52,7 @@ The NAO report only mentions NLN in a side box to a diagram and doesn't give any
 
 So at this point my paranoia sets in about why they don't just report the raw statistics and I put a Freedom of Information (FoI) request to the BBC asking for NLN numbers broken down by nation by year. They duly reply within the 20 day time limit.
 
-[RFI20190261 FOI Response](http://www.hyam.net/blog/wp-content/uploads/2019/03/RFI20190261-FOI-Response.pdf)[Download](http://www.hyam.net/blog/wp-content/uploads/2019/03/RFI20190261-FOI-Response.pdf)
+[RFI20190261 FOI Response](RFI20190261-FOI-Response.pdf)[Download](RFI20190261-FOI-Response.pdf)
 
 I don't want to get into a detailed break down of what I asked for and what they could have given me but instead look at the information they did give me. I'm linking all the data and responses here so you can look into it yourself if you like.
 

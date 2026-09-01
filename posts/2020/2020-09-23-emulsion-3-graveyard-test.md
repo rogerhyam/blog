@@ -8,7 +8,7 @@ coverImage: "img20200922_21483627-3.jpg"
 
 
 
-[![](images/img20200922_21483627-3-784x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2020/09/img20200922_21483627-3.jpg)
+![](images/img20200922_21483627-3-784x1024.jpg)
 
 
 
@@ -22,7 +22,7 @@ A week off the day job has given me time to work on my silver gelatine glass pla
 
 
 
-[![](images/img20200921_20200665-778x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2020/09/img20200921_20200665.jpg)
+![](images/img20200921_20200665-778x1024.jpg)
 
 
 

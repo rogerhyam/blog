@@ -5,7 +5,7 @@ categories:
   - "mindfulness_buddhism"
 ---
 
-[![](images/cover-399x640.jpg "cover")](http://www.hyam.net/blog/wp-content/uploads/2012/01/cover.jpg) My pamphlet "_A Brief Introduction to Mindfulness Meditation_" is now available on the [Kindle](http://en.wikipedia.org/wiki/Amazon_Kindle) store worldwide. There has to be a nominal charge for it but it does make it available to a wide audience. Visit the UK or US Amazon stores to purchase. In other territories you will have to search for it I am afraid - but if you can buy Kindle books where  you are you should be able to buy this one.
+![](images/cover-399x640.jpg "cover") My pamphlet "_A Brief Introduction to Mindfulness Meditation_" is now available on the [Kindle](http://en.wikipedia.org/wiki/Amazon_Kindle) store worldwide. There has to be a nominal charge for it but it does make it available to a wide audience. Visit the UK or US Amazon stores to purchase. In other territories you will have to search for it I am afraid - but if you can buy Kindle books where  you are you should be able to buy this one.
 
 - [UK Amazon Store](http://www.amazon.co.uk/dp/B006TLBV34)
 - [US Amazon Store](http://www.amazon.com/dp/B006TLBV34)

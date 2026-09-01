@@ -5,7 +5,7 @@ categories:
   - "mindfulness_buddhism"
 ---
 
-[![](images/what_buddha_thought-422x640.jpg "what_buddha_thought")](http://www.hyam.net/blog/wp-content/uploads/2010/10/what_buddha_thought.jpg)
+![](images/what_buddha_thought-422x640.jpg "what_buddha_thought")
 
 It took two transatlantic flights but I have just finished "What the Buddha Thought" by Richard Gombrich. I was inspired to read it by my boss, Charles Hussey, who kindly took me to a lecture for the old boys o[f St Paul's School](http://www.stpaulsschool.org.uk/) in London given by Richard.
 

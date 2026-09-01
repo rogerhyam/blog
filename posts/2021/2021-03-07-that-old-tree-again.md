@@ -10,7 +10,7 @@ There is an old wind blasted oak tree close to the [North Esk River](https://en.
 
 
 
-[![](images/img20210227_14410243-819x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/03/img20210227_14410243.jpg)
+![](images/img20210227_14410243-819x1024.jpg)
 
 
 

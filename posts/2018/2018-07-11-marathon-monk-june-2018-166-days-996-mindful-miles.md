@@ -7,7 +7,7 @@ categories:
 coverImage: "DSCF8227.jpg"
 ---
 
-[![](images/DSCF8227.jpg)](http://www.hyam.net/blog/wp-content/uploads/2018/07/DSCF8227.jpg)
+![](images/DSCF8227.jpg)
 
 A year on the road. Not the road in the picture. That is the A383 in the Highlands.
 

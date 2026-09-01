@@ -10,7 +10,7 @@ Quite a month for distractions both good and bad so I've only increased my total
 
 The month was always going to have the good distraction of a week in Stourbridge at the [Nourishing Happiness retreat](http://coiuk.org/events/miracle-of-mindfulness-nourishing-happiness-retreat-in-stourbridge/). Here I got to walk and practice each day but not in a way that counts towards my totals. After Stourbridge we had four monastics visiting to [give a public talk](https://wildgeesezen.org/2017/07/23/an-evening-for-the-miracle-of-mindfulness-nourishing-happiness/) on Wednesday 30th. Looking after the monastic brothers and sisters knocked another three days out of my walking schedule.
 
-\[caption id="attachment\_3561" align="aligncenter" width="682"\][![](images/20170830-DSCF6993-682x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2017/09/20170830-DSCF6993.jpg) Brother Mountain chilling at the Botanics\[/caption\]
+\[caption id="attachment\_3561" align="aligncenter" width="682"\]![](images/20170830-DSCF6993-682x1024.jpg) Brother Mountain chilling at the Botanics\[/caption\]
 
 The unplanned distraction was a some dental work. I was getting pain in my teeth and had to have a wisdom tooth pulled. The following day I stayed in bed to look after my body as I was feeling rotten. Following one of Thich Nhat Hanh's classic teachings I am now enjoying my non-toothache. I wonder how long I'll remember how pleasant a neutral feeling is.
 

@@ -1,6 +1,9 @@
 ---
 title: "Schneider Kreuznach Vintage Lens Data"
+abstract: "A compilation of lens specifications pulled from the old Schneider Kreuznach website on the Wayback Machine and knitted into a single page."
 date: 2019-08-16
+tags:
+- "featured"
 categories: 
   - "photography"
   - "schneider-lenses"
@@ -2766,12 +2769,12 @@ A 5-element, 4-group design, giving a 60° angle of coverage. These are fast len
 |   **Back Focal Length (S'F')**   |   71.2mm   |
 |   **Principal Point Separation (HH')**   |   \-7.3mm   |
 
-[APO ATAR PDF](http://www.hyam.net/blog/wp-content/uploads/2019/08/apo_artar.pdf)[Download](http://www.hyam.net/blog/wp-content/uploads/2019/08/apo_artar.pdf)
+[APO ATAR PDF](apo_artar.pdf)
 
-[Super Symmar HM PDF](http://www.hyam.net/blog/wp-content/uploads/2019/08/super_symmar_hm.pdf)[Download](http://www.hyam.net/blog/wp-content/uploads/2019/08/super_symmar_hm.pdf)
+[Super Symmar HM PDF](super_symmar_hm.pdf)
 
-[Symmar-S Group Data](http://www.hyam.net/blog/wp-content/uploads/2019/08/Symmar-S_Group_Data.pdf)[Download](http://www.hyam.net/blog/wp-content/uploads/2019/08/Symmar-S_Group_Data.pdf)
+[Symmar-S Group Data](Symmar-S_Group_Data.pdf)
 
-[Tele Xenar 1938 Leaflet](http://www.hyam.net/blog/wp-content/uploads/2019/08/Tele_Xenar_1938_Leaflet.pdf)[Download](http://www.hyam.net/blog/wp-content/uploads/2019/08/Tele_Xenar_1938_Leaflet.pdf)
+[Tele Xenar 1938 Leaflet](Tele_Xenar_1938_Leaflet.pdf)
 
-[Xenar Data](http://www.hyam.net/blog/wp-content/uploads/2019/08/Xenar_data.pdf)[Download](http://www.hyam.net/blog/wp-content/uploads/2019/08/Xenar_data.pdf)
+[Xenar Data](Xenar_data.pdf)

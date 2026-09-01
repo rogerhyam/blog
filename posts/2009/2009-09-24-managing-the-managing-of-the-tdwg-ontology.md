@@ -61,4 +61,4 @@ What is needed now is discussion on if this is a good way forward. If it is then
 
 What do you think?
 
-\[For those with a technical inclination here is a  [snapshot of the code](http://www.hyam.net/blog/wp-content/uploads/2009/09/tdwg_ontology_proxy.zip)\]
+\[For those with a technical inclination here is a  [snapshot of the code](tdwg_ontology_proxy.zip)\]

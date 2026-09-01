@@ -10,7 +10,7 @@ I finally got to make what I'm calling a triptych panorama. I've been thinking a
 
 
 
-[![](images/PXL_20220409_173235190-1024x623.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/04/PXL_20220409_173235190-scaled.jpg)
+![](images/PXL_20220409_173235190-1024x623.jpg)
 
 
 
@@ -22,7 +22,7 @@ I'm not sure the best way to share the physical object so here is a quick snap.
 
 
 
-[![](images/PXL_20220409_174448919-1024x768.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/04/PXL_20220409_174448919-scaled.jpg)
+![](images/PXL_20220409_174448919-1024x768.jpg)
 
 
 
@@ -36,7 +36,7 @@ It took me three trips to North Berwick Law to get this right. The first time wa
 
 
 
-[![](images/PXL_20220327_114339693.PANO_-1024x445.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/04/PXL_20220327_114339693.PANO_-scaled.jpg)
+![](images/PXL_20220327_114339693.PANO_-1024x445.jpg)
 
 
 

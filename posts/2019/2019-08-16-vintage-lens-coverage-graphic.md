@@ -1,6 +1,8 @@
 ---
 title: "Vintage Lens Coverage Graphic"
+abstract: "A nifty graphic to give a visual representation of what the different Schneider lenses will cover."
 date: 2019-08-16
+tags: ["featured"]
 categories: 
   - "photography"
   - "schneider-lenses"

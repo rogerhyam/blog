@@ -11,7 +11,7 @@ Here is the first draft of a book chapter I have written for an upcoming [System
 
 There are probably still some typos and there may be some factual errors - if so I'd really like to hear about them so I can get them ironed out before the book goes to press.
 
-[Taxa, Taxon Names and Globally Unique Identifiers in Perspective.](http://www.hyam.net/blog/wp-content/uploads/2009/08/perspectives_09.pdf) (PDF ~ 332kb)
+[Taxa, Taxon Names and Globally Unique Identifiers in Perspective.](perspectives_09.pdf) (PDF ~ 332kb)
 
 Enjoy!
 
@@ -19,4 +19,4 @@ Enjoy!
 
 I would advocate that anyone else who is writing contributions to CUP books take advantage of this arrangement and prepublish their material on their own website thus making it as widely and freely available as possible.
 
-**Edit:** I just updated the PDF to include a few comments I have received.  You can still read the [Old Version](http://www.hyam.net/blog/wp-content/uploads/2009/08/perspectives_08.pdf) (PDF ~ 332kb) if you like
+**Edit:** I just updated the PDF to include a few comments I have received.  You can still read the [Old Version](perspectives_08.pdf) (PDF ~ 332kb) if you like

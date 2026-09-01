@@ -36,6 +36,8 @@ if(preg_match('/\.jpg$/i', $path)) return false;
 if(preg_match('/\.jpeg$/i', $path)) return false;
 if(preg_match('/\.png$/i', $path)) return false;
 if(preg_match('/\.gif$/i', $path)) return false;
+if(preg_match('/\.pdf$/i', $path)) return false;
+if(preg_match('/\.zip$/i', $path)) return false;
 
 $page_title = "Roger Hyam";
 $display_date = '';

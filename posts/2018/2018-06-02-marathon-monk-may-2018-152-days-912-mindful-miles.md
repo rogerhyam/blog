@@ -7,7 +7,7 @@ categories:
 coverImage: "pin_06.jpg"
 ---
 
-[![](images/pin_06.jpg)](http://www.hyam.net/blog/wp-content/uploads/2018/06/pin_06.jpg)
+![](images/pin_06.jpg)
 
 May is the month that I lead the Two Feet, One Mind walking workshops in the Botanics so, strangely, I do a few less marathon monk days. The workshops are for two hours, 6-8pm, and it is just too much to walk there and back as well as a days work so I go on my bike.
 

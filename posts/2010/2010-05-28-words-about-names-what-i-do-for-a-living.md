@@ -5,7 +5,7 @@ categories:
   - "biodiv"
 ---
 
-\[caption id="attachment\_860" align="alignleft" width="188" caption="The Frog in the Pond"\][![](images/frog_lurking-640x640.jpg "frog_lurking")](http://www.hyam.net/blog/wp-content/uploads/2010/05/frog_lurking.jpg)\[/caption\]
+\[caption id="attachment\_860" align="alignleft" width="188" caption="The Frog in the Pond"\]![](images/frog_lurking-640x640.jpg "frog_lurking")\[/caption\]
 
 Sometimes two things cross your desk at the same time and they say more than either one of them would on their own.
 

@@ -12,7 +12,7 @@ With film the old adage is "Expose for the shadows, develop for the hight lights
 
 
 
-[![](images/img20221008_17414795-1024x562.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/10/img20221008_17414795-scaled.jpg)
+![](images/img20221008_17414795-1024x562.jpg)
 
 
 
@@ -26,7 +26,7 @@ I took a Stouffer step wedge I bought for testing film. Each step is 1/2 stop. I
 
 
 
-[![](images/img20221008_17444685-1024x498.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/10/img20221008_17444685-scaled.jpg)
+![](images/img20221008_17444685-1024x498.jpg)
 
 
 

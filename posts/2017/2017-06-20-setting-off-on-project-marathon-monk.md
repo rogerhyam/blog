@@ -12,7 +12,7 @@ Pick a date, any date. I pick this one. A nice astronomical date. This is when t
 
 ### Summer Solstice 05:24 Wednesday 21st June 2017
 
-[![](images/19390832_1869973966659283_3075852147445575807_o-640x640.jpeg)](http://www.hyam.net/blog/wp-content/uploads/2017/06/19390832_1869973966659283_3075852147445575807_o.jpeg)I'm taking as my muse the Marathon Monks of Mount Hiei in Japan. I'm going to use some of their rituals to turn my journeys to and from work into a formal mindfulness practice of 100 and then up to 1,000 journeys. I'm not going to do what the monks do I'm creating an analogue of their practice. Here is my initial comparison based largely on [the Wikipedia page](https://en.wikipedia.org/wiki/Kaih%C5%8Dgy%C5%8D).
+![](images/19390832_1869973966659283_3075852147445575807_o-640x640.jpeg)I'm taking as my muse the Marathon Monks of Mount Hiei in Japan. I'm going to use some of their rituals to turn my journeys to and from work into a formal mindfulness practice of 100 and then up to 1,000 journeys. I'm not going to do what the monks do I'm creating an analogue of their practice. Here is my initial comparison based largely on [the Wikipedia page](https://en.wikipedia.org/wiki/Kaih%C5%8Dgy%C5%8D).
 
 **Length of "Marathons":** For the first five years and half the seventh year the monks walk briskly 30 to 40km (18 to 25 miles) per day. In the last two years there are times when they double or nearly triple the distance. I'll be walking to work which is just under 5km (2.5ish miles depending on my route) from home then spending twenty minutes slow walking in my lunch hour and walking back by a different route. My marathons are therefore about 10km or 5-6 miles.  If I catch the bus one way then that day won't count! That is about a sixth of what the monks do. As neither I nor the monks do actual 26 miles 385 yards (42.195 km) Olympic marathons I should probably put the word marathon in quotes instead I take marathon in the sense of a long, arduous task e.g. Marathon Star Wars session.
 
@@ -22,7 +22,7 @@ Pick a date, any date. I pick this one. A nice astronomical date. This is when t
 
 **Total Duration:** Monks have a strict seven year schedule. I think I'll do about 200 a year so may be complete in five years. If I haven't finished by my sixtieth birthday I'll consider it a failure (I'm 52).
 
-\[caption id="attachment\_3477" align="aligncenter" width="747"\][![](images/IMG_20170619_090006-1024x551.jpg)](http://www.hyam.net/blog/wp-content/uploads/2017/06/IMG_20170619_090006.jpg) Three Sisters "shrine" in George Square\[/caption\]
+\[caption id="attachment\_3477" align="aligncenter" width="747"\]![](images/IMG_20170619_090006-1024x551.jpg) Three Sisters "shrine" in George Square\[/caption\]
 
 **Visiting Shrines:** There are 250 shrines on Mount Hiei that the monks visit and offer prayers to. There aren't quite that many shrines in Edinburgh but there are a number of points on my route where I will do a formal nature connection practice - the [Ten Breaths Practice](http://amzn.eu/4ghdE12). I'll write more on this as time passes.
 

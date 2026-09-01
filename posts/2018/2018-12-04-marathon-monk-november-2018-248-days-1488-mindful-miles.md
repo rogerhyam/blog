@@ -8,7 +8,7 @@ categories:
 coverImage: "2018-11-3_020.jpg"
 ---
 
-[![](images/2018-11-3_020-1024x576.jpg)](http://www.hyam.net/blog/wp-content/uploads/2018/12/2018-11-3_020.jpg)
+![](images/2018-11-3_020-1024x576.jpg)
 
 What has happened this month?
 
@@ -18,6 +18,6 @@ I'm calling my Sunday Anxieties FOMO now. That's what it comes down to. A list o
 
 The walking continues, sometimes interrupted by circumstances. The first week of December is all workshops at the university so I am missing the walks.
 
-[![](images/thing-2-1022x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2018/12/thing-2.jpg)
+![](images/thing-2-1022x1024.jpg)
 
 \[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]

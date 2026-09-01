@@ -5,7 +5,7 @@ categories:
   - "mindfulness_buddhism"
 ---
 
-[![](images/anglesea.jpg "anglesea")](http://www.hyam.net/blog/wp-content/uploads/2011/06/anglesea.jpg)[Cognitive dissonance](http://en.wikipedia.org/wiki/Cognitive_dissonance) is a wonderful thing. At least it is a wonderful thing once you know about it and can enjoy the way it wags your opions and actions around against your will. It is amazing what we can't see because it is simply too unpleasant to contemplate. Of course the fun part is spotting it in other people. They suffer from dissonance whereas we allow for it!
+![](images/anglesea.jpg "anglesea")[Cognitive dissonance](http://en.wikipedia.org/wiki/Cognitive_dissonance) is a wonderful thing. At least it is a wonderful thing once you know about it and can enjoy the way it wags your opions and actions around against your will. It is amazing what we can't see because it is simply too unpleasant to contemplate. Of course the fun part is spotting it in other people. They suffer from dissonance whereas we allow for it!
 
 One concept we use in the "mindfulness community" is  the difference between _Being_ and _Doing_. We urge people to stop _Doing_ stuff or even trying to do stuff and to start just _Being_. Segal _et al_ describe this as two modes of mind in "[Mindfulness-Based Cognitive Ther](http://www.amazon.co.uk/Mindfulness-based-Cognitive-Therapy-Depression-Preventing)[apy for Depression](http://www.amazon.co.uk/Mindfulness-based-Cognitive-Therapy-Depression-Preventing)" and use the evocative metaphor of changing gears in a car to describe how we shift between the modes.
 

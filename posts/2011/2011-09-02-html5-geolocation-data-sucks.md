@@ -7,7 +7,7 @@ categories:
   - "technolust"
 ---
 
-[![](images/geotest.png "geotest")](http://www.hyam.net/blog/wp-content/uploads/2011/09/geotest.png)I have long been excited about HTML5 having access to a geolocation data. It should make it possible to build a whole range of applications for phones and other devices that are cross platform but make use of the users location. Unfortunately reality bites when you try and actually build an application based on the technology.
+![](images/geotest.png "geotest")I have long been excited about HTML5 having access to a geolocation data. It should make it possible to build a whole range of applications for phones and other devices that are cross platform but make use of the users location. Unfortunately reality bites when you try and actually build an application based on the technology.
 
 I have been working with [Sencha Touch](http://www.sencha.com/products/touch/) and the Ext.util.Geolocation object but am having problems with accuracy. I have noted the following behaviour.
 

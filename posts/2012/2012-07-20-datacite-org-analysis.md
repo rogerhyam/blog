@@ -23,13 +23,13 @@ And [@epentz](https://twitter.com/epentz) replied:
 
 Where did those numbers come from? Now I was curious so I went back to the DataCite.org OAI-PMH provider but this time I used a script to have a look. This is the deposition history by month for the entire registry:
 
-[![](images/months-640x231.png "months")](http://www.hyam.net/blog/wp-content/uploads/2012/07/months.png)
+![](images/months-640x231.png "months")
 
 The vast majority were created in December last year - a single provider I presume. Then there was another large batch in June this year.
 
 Next I looked at the Sets in the registry. DataCite seem to create a set and then subsets for each organisation the create DOI's for. Here is the pie chart showing the number of records per organisation:
 
-[![](images/sets.png "sets")](http://www.hyam.net/blog/wp-content/uploads/2012/07/sets.png)
+![](images/sets.png "sets")
 
 The vast majority are TIB (German National Library of Science and Technology) and CDL (California Digital Library) who have contributed about 90%. There are 15 organizations in total 11 of those have contributed less than 2,500 records each.
 
@@ -37,6 +37,6 @@ I have no intention of knocking the project but from looking at the DataCite.org
 
 I will watch with interest to see how this develops and whether it makes the leap to linking to significant quantities of raw scientific data that is being properly curated.
 
-Here is the code and data from my analysis - you can run it again as command line PHP scripts if you like: [datacite](http://www.hyam.net/blog/wp-content/uploads/2012/07/datacite.zip)
+Here is the code and data from my analysis - you can run it again as command line PHP scripts if you like: [datacite](datacite.zip)
 
 Your comments and corrections are always welcome!

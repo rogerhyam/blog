@@ -8,7 +8,7 @@ tags:
   - "rhododendron"
 ---
 
-[![](images/466555-519x640.jpg "466555")](http://www.hyam.net/blog/wp-content/uploads/2011/12/466555.jpg)
+![](images/466555-519x640.jpg "466555")
 
 Whilst I have been working on digitizing the _Rhododendron_ monographs I have also been providing some technical help for Stuart Lindsay who is producing a series of fact sheets for the Ferns of Thailand. This has helped crystallize my thoughts regarding monographs and how we migrate them into the digital age.
 

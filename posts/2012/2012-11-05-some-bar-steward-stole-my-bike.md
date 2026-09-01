@@ -5,7 +5,7 @@ categories:
   - "misc"
 ---
 
-[![](images/2012-04-26-08.29.00-1024x627.jpg "2012-04-26 08.29.00")](http://www.hyam.net/blog/wp-content/uploads/2012/11/2012-04-26-08.29.00.jpg)
+![](images/2012-04-26-08.29.00-1024x627.jpg "2012-04-26 08.29.00")
 
 My attempts at only blogging the positive are never going to take off! Somebody stole my bike from the stairwell of our flat last night. Yes it was well locked to the wall. Best bike I ever had. Not terribly expensive or anything just functional. Specialized Crosstrail Sport Disc. Numbers on the frame: BT-2559 WSBC 6082 25357G If you are offered it or see it contact me or the police.
 

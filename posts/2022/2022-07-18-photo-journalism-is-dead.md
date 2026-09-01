@@ -8,7 +8,7 @@ coverImage: "same_photo_news_desk.jpg"
 
 
 
-[![](images/same_photo_news_desk-1024x727.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/07/same_photo_news_desk.jpg)
+![](images/same_photo_news_desk-1024x727.jpg)
 
 
 

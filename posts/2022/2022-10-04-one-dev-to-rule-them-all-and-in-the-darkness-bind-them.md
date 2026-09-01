@@ -43,7 +43,7 @@ My first test is to expose the last dozen frames of the current roll of Delta 40
 
 
 
-[![](images/PXL_20220924_153303462-1024x673.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/10/PXL_20220924_153303462.jpg)
+![](images/PXL_20220924_153303462-1024x673.jpg)
 
 
 
@@ -57,7 +57,7 @@ I'm not interested in scanning 35mm negs, it makes my heart sink. I usually make
 
 
 
-[![](images/img20221004_16110820-1024x720.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/10/img20221004_16110820.jpg)
+![](images/img20221004_16110820-1024x720.jpg)
 
 
 
@@ -71,7 +71,7 @@ Both acceptable but the tone and ease of printing is definitely more pleasant on
 
 
 
-[![](images/img20221004_16430424-1024x718.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/10/img20221004_16430424.jpg)
+![](images/img20221004_16430424-1024x718.jpg)
 
 
 
@@ -97,7 +97,7 @@ I made up some TD-200 from Film Developing Cook Book except I used 4g Metol beca
 
 
 
-[![](images/PXL_20221002_174316982-1024x631.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/10/PXL_20221002_174316982.jpg)
+![](images/PXL_20221002_174316982-1024x631.jpg)
 
 
 
@@ -111,7 +111,7 @@ Before my first coffee of the morning I made some exposures on Fomapan 100 and D
 
 
 
-[![](images/img20221004_16582882-718x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/10/img20221004_16582882.jpg)
+![](images/img20221004_16582882-718x1024.jpg)
 
 
 
@@ -129,7 +129,7 @@ I nipped out to the local cemetery and found a very high contrast scene. Bright 
 
 
 
-[![](images/img20221004_17080021-819x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/10/img20221004_17080021.jpg)
+![](images/img20221004_17080021-819x1024.jpg)
 
 
 
@@ -141,7 +141,7 @@ Grade 2 contact print on 8x10 paper of whole plate (6.5x8.5) developed in TD-200
 
 
 
-[![](images/img20221004_17162802-777x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/10/img20221004_17162802.jpg)
+![](images/img20221004_17162802-777x1024.jpg)
 
 
 
@@ -163,7 +163,7 @@ What this doesn't cover is trying to get pictorial use out of my stash of Tech P
 
 
 
-[![](images/PXL_20221004_162852060-1024x627.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/10/PXL_20221004_162852060-scaled.jpg)
+![](images/PXL_20221004_162852060-1024x627.jpg)
 
 
 
@@ -173,6 +173,6 @@ Two developers in three bottles - plus a bottle of argon?
 
 
 
-[![](images/PROTECTAN_001-edited.jpeg)](http://www.hyam.net/blog/wp-content/uploads/2022/10/PROTECTAN_001.jpeg)
+![](images/PROTECTAN_001-edited.jpeg)
 
 **Just one more thing.** Oxidation is bad for Part A and PQ goes brown pretty quick. I investigated getting some Tetenal Protectan gas to spray in the bottles but it has been discontinued. An alternative is wine keeper (under various brands) but those are very expensive for the amount of gas you get. Everything to do with wine snobbery is expensive apparently. Then it occurred to me that Argon is used for MIG/TIG welding and costs less than a 1/30th what wine keeper costs. I just needed to buy a valve but even including the cost of the valve it worked out and 1/15th the cost of wine keeper and if I need to buy more it will be even cheaper.

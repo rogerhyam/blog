@@ -8,7 +8,7 @@ coverImage: "PXL_20221103_084252068.jpg"
 
 
 
-[![](images/PXL_20221103_084252068-1024x655.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/11/PXL_20221103_084252068.jpg)
+![](images/PXL_20221103_084252068-1024x655.jpg)
 
 
 Multigrade Paper negatives on a light box. Left is two bath TD-200. Right is Ilford PQ

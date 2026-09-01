@@ -6,4 +6,4 @@ categories:
   - "photography"
 ---
 
-[![](images/2010-11-29-at-14-44-00.jpg "2010-11-29 at 14-44-00")](http://www.hyam.net/blog/wp-content/uploads/2010/12/2010-11-29-at-14-44-00.jpg)
+![](./images/2010-11-29-at-14-44-00.jpg "2010-11-29 at 14-44-00")

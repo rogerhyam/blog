@@ -10,9 +10,9 @@ What I like about photography is it is so often about what you want to say and n
 
 It starts with a [blog post moaning about BBC bias](https://markdoran.wordpress.com/2017/05/14/tory-tory-tory-3/) that contained two photos from the same event.[](http://www.hyam.net/blog/wp-content/uploads/2017/05/maybbcimage.jpg)
 
-\[caption id="attachment\_3392" align="aligncenter" width="936"\][![](images/maybbcimage.jpg)](http://www.hyam.net/blog/wp-content/uploads/2017/05/maybbcimage.jpg) Popoganda\[/caption\]
+\[caption id="attachment\_3392" align="aligncenter" width="936"\]![](images/maybbcimage.jpg) Popoganda\[/caption\]
 
-\[caption id="attachment\_3393" align="aligncenter" width="620"\][![](images/maybbcreality-1024x768.jpg)](http://www.hyam.net/blog/wp-content/uploads/2017/05/maybbcreality.jpg) Reality\[/caption\]
+\[caption id="attachment\_3393" align="aligncenter" width="620"\]![](images/maybbcreality-1024x768.jpg) Reality\[/caption\]
 
 I'm not totally sure where the propaganda shot came from but the reality shot was [Laura Kuenssberg on Twitter I think](https://twitter.com/bbclaurak/status/863006520648368128).
 

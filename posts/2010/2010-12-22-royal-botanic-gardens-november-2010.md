@@ -6,8 +6,8 @@ categories:
   - "photography"
 ---
 
-[![](images/2010-12-08-at-13-26-58.jpg "2010-12-08 at 13-26-58")](http://www.hyam.net/blog/wp-content/uploads/2010/12/2010-12-08-at-13-26-58.jpg)
+![](images/2010-12-08-at-13-26-58.jpg "2010-12-08 at 13-26-58")
 
 * * *
 
-[![](images/2010-12-08-at-13-29-571.jpg "2010-12-08 at 13-29-57")](http://www.hyam.net/blog/wp-content/uploads/2010/12/2010-12-08-at-13-29-571.jpg)
+![](images/2010-12-08-at-13-29-571.jpg "2010-12-08 at 13-29-57")

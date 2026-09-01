@@ -10,7 +10,7 @@ We have a "stay at home" order in place in Scotland right now which means we can
 
 
 
-[![](images/PXL_20210307_145116368-786x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/03/PXL_20210307_145116368-scaled.jpg)
+![](images/PXL_20210307_145116368-786x1024.jpg)
 
 
 
@@ -24,7 +24,7 @@ I have a [Voigtländer Avus with an adapted 4x5 back](http://www.hyam.net/blog/a
 
 
 
-[![](images/PXL_20210306_100342618-791x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/03/PXL_20210306_100342618-scaled.jpg)
+![](images/PXL_20210306_100342618-791x1024.jpg)
 
 
 
@@ -36,7 +36,7 @@ Two screws below distance scale give a wide range of movement
 
 
 
-[![](images/PXL_20210307_145157136-815x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/03/PXL_20210307_145157136-scaled.jpg)
+![](images/PXL_20210307_145157136-815x1024.jpg)
 
 
 
@@ -52,7 +52,7 @@ The results aren't bad if you like the 19th Century look. I took a [picture of o
 
 
 
-[![](images/img20210307_13480687-1024x774.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/03/img20210307_13480687.jpg)
+![](images/img20210307_13480687-1024x774.jpg)
 
 
 
@@ -64,7 +64,7 @@ St Anthony's Chapel in Holyrood Park
 
 
 
-[![](images/img20210307_14265006-759x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/03/img20210307_14265006.jpg)
+![](images/img20210307_14265006-759x1024.jpg)
 
 
 
@@ -77,7 +77,7 @@ St Anthony's Chapel with 1960's tower block and guy who looks like he is playing
 
 
 
-[![](images/img20210307_14384285-764x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/03/img20210307_14384285.jpg)
+![](images/img20210307_14384285-764x1024.jpg)
 
 
 

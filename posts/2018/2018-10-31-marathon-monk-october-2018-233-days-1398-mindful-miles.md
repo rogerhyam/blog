@@ -7,7 +7,7 @@ categories:
 coverImage: "pin-2.jpg"
 ---
 
-\[caption id="attachment\_3794" align="aligncenter" width="1024"\][![](images/pin-2-1024x335.jpg)](http://www.hyam.net/blog/wp-content/uploads/2018/10/pin-2.jpg) One of my Marathon Monk shrines - Old College War Memorial. A pinhole photo.\[/caption\]
+\[caption id="attachment\_3794" align="aligncenter" width="1024"\]![](images/pin-2-1024x335.jpg) One of my Marathon Monk shrines - Old College War Memorial. A pinhole photo.\[/caption\]
 
 Another month already! Towards the end of the month I've been finding joy again in walking and in mundane things - the true test of happiness. The extra energy has allowed me to cut back on my media consumption so I'm not looking at Twitter, Facebook or news websites just at the moment. It doesn't feel that it is the cutting back on the media that lead to my positive mood. The two things arose at the the same point but are compatible.
 

@@ -7,7 +7,7 @@ categories:
 coverImage: "20170703-DSCF6664.jpg"
 ---
 
-[![](images/20170703-DSCF6664-1024x576.jpg)](http://www.hyam.net/blog/wp-content/uploads/2017/07/20170703-DSCF6664.jpg)
+![](images/20170703-DSCF6664-1024x576.jpg)
 
 How does meditation work? I'm sure there are loads of scientific papers and sutra commentaries on the subject but I have one mundane theory I'd like to share.
 
@@ -17,7 +17,7 @@ The problem with this is two fold. Firstly listening to the same person drone on
 
 There are strategies we use to deal with "the voice" and they can be used in combination. Distraction is good. Watching a movie or listening to the radio enables us to skip along on someone else's voice for some light relief. Additionally we are blessed with context-dependent memory. This is the mental mechanism that partially wipes the mind as we move from one scene to another. It is useful when you don't want to think about work at home but a pain when you forget what you came in a room for. We use context-dependent memory in combination with external triggers to repeat our self-talk narrative without getting too bored.
 
-[![](images/20170703-DSCF6667-640x640.jpg)](http://www.hyam.net/blog/wp-content/uploads/2017/07/20170703-DSCF6667.jpg)
+![](images/20170703-DSCF6667-640x640.jpg)
 
 So what happens when we sit on the same cushion in the same room day after day to meditate? Same context, no distraction, same self-talk, nowhere to hide. At first there are the issues of getting to know and like the person who does the self-talk and that can take years but after a while we begin to see past it and deeper into the un-narrated self. Meditation is dropping our stories.
 

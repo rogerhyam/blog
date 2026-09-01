@@ -8,7 +8,7 @@ tags:
   - "rhododendron"
 ---
 
-[![](images/470111-385x640.jpg "470111")](http://www.hyam.net/blog/wp-content/uploads/2011/12/470111.jpg)
+![](images/470111-385x640.jpg "470111")
 
 I've had my head down work wise for the past few weeks trying to get the _Rhododendron_ monograph markup finished. I now have a little database with some 821 species accounts in it plus a few hundred images - mainly of herbarium specimens. The workflow has been quiet simple but very time consuming.
 

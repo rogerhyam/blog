@@ -9,11 +9,11 @@ coverImage: "whole_scotland_small.jpg"
 
 This is an image of Scotland that I created as part of my job. The green is [Normalised Difference Vegetation Index](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index) which is basically the difference between red and near infra-red light as seen by a satellite. This image is a composite of around one hundred and fifty satellite passes over three summers. The sensor on the satellite was a push-broom scanner like in a photocopier. The data is processed by USGS before people like me download it for our own analyses. The big question: Is this a photograph?
 
-\[caption id="attachment\_3802" align="aligncenter" width="986"\][![](images/whole_scotland_small.jpg)](http://www.hyam.net/blog/wp-content/uploads/2018/11/whole_scotland_small.jpg) NDVI Composite satellite image over OpenStreetMap data of Scotland\[/caption\]
+\[caption id="attachment\_3802" align="aligncenter" width="986"\]![](images/whole_scotland_small.jpg) NDVI Composite satellite image over OpenStreetMap data of Scotland\[/caption\]
 
 This is an image I created at the weekend using a large format camera, Illford printing paper as the negative then scanned into a computer. Is this a photograph?
 
-\[caption id="attachment\_3803" align="aligncenter" width="808"\][![](images/Untitled-5-808x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2018/11/Untitled-5.jpg) Wilting flowers\[/caption\]
+\[caption id="attachment\_3803" align="aligncenter" width="808"\]![](images/Untitled-5-808x1024.jpg) Wilting flowers\[/caption\]
 
 I've never really cared whether photography is art or not. The only reason anyone cares about that is if there is money it. But recently I've started to care about a difference between "real" photography and computational imaging. Check out this show reel of visual effects from [The Man in the High Castle](https://www.imdb.com/title/tt1740299/). I'm a big fan and of course knew that there were a lot of VFX but not that there was quite so much! Kudos to the actors for the green screen performances.
 
@@ -21,7 +21,7 @@ https://youtu.be/fPnrbD1zXIE
 
 The way I see it is there is a spectrum that looks something like this.
 
-[![](images/IMG_20181124_204430-1024x428.jpg)](http://www.hyam.net/blog/wp-content/uploads/2018/11/IMG_20181124_204430.jpg)
+![](images/IMG_20181124_204430-1024x428.jpg)
 
 On the far left of the spectrum we have raw photography. Things like photograms where there isn't even a lens involved and objects are laid directly on light sensitive paper. Then we have film photography which is followed by digital photography where the chemicals are replaced by semiconductors. But then there is a leap. Because digital sensors are capable of capturing data continuously and perceiving depth they start to sample a scene in a way that can make use of more than a simple one to one representation. Information from light can be combined with data from an accelerometer, a gyroscope, a clock and GPS.  The data is in a form that isn't necessarily understandable as a drawing but from which a drawing can be constructed based on other knowledge about other pictures that have been made of the world. In its simplest form this is using a classifier to detect faces and other objects but can and will go far beyond this.
 

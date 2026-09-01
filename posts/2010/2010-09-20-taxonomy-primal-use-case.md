@@ -7,7 +7,7 @@ categories:
 
 I have been around and around this thing over the past few years and it all comes down to a simple use-case. I thought I would present it graphically here:
 
-\[caption id="attachment\_932" align="aligncenter" width="584" caption="The Simplest Use-Case for Taxonomy?"\][![](images/simple_usecase.png "simple_usecase")](http://www.hyam.net/blog/wp-content/uploads/2010/09/simple_usecase.png)\[/caption\]
+\[caption id="attachment\_932" align="aligncenter" width="584" caption="The Simplest Use-Case for Taxonomy?"\]![](images/simple_usecase.png "simple_usecase")\[/caption\]
 
 David is a decision maker. He wants to use data from two studies, Helen 2002 and Harry 1998. Is it safe for him to combine studies if:
 

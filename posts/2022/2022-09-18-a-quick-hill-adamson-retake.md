@@ -11,7 +11,7 @@ I dropped my daughter back at St Andrews University the other day and it gave me
 
 
 
-[![](images/the-pends-st-andrews-with-man-cart-764x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/09/the-pends-st-andrews-with-man-cart-scaled.jpg)
+![](images/the-pends-st-andrews-with-man-cart-764x1024.jpg)
 
 
 
@@ -23,7 +23,7 @@ The Pends - 1843-47 - Hill & Adamson - salt print from calotype. CC by NC - Nati
 
 
 
-[![](images/img20220918_18575161-2-781x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/09/img20220918_18575161-2.jpg)
+![](images/img20220918_18575161-2-781x1024.jpg)
 
 
 

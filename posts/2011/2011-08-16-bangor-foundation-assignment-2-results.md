@@ -6,11 +6,11 @@ categories:
   - "mindfulness_buddhism"
 ---
 
-[![](images/yet-another-lighthouse-640x360.jpg "yet another lighthouse")](http://www.hyam.net/blog/wp-content/uploads/2011/08/yet-another-lighthouse.jpg)
+![](images/yet-another-lighthouse-640x360.jpg "yet another lighthouse")
 
 Attached is my second assignment from the Bangor Mindfulness course which has now been marked. This is the document as submitted but with my name and copyright information added.
 
-- [Foundation\_Assigment\_2\_blog\_version.pdf](http://www.hyam.net/blog/wp-content/uploads/2011/08/Foundation_Assigment_2_blog_version.pdf).
+- [Foundation\_Assigment\_2\_blog\_version.pdf](Foundation_Assigment_2_blog_version.pdf).
 
 I got 64% which translates as a 'B'. The marker made some kind comments about my "highly original ideas" but rightly points out that this becomes the focus of the essay and marks me down accordingly. You can judge for yourself what you think of the assignment.<!--more-->
 

@@ -16,31 +16,15 @@ All these approaches are quite labour intensive so I thought I'd see if I could 
 
 I took a micro:bit and added a BPW43 photodiode, a 10 kΩ resistor and a 330 Ω resistor in a simple circuit that reverse biased the photodiode so it acts like a switch. This maxed out my electronics knowledge but works. I then wrote a simple Python program to measure the duration the diode was on for and convert that into something useful for a photographer. I'm more comfortable with the programming than the wiring. The result is demonstrated in the video above. The whole project cost me less than £25 which included a [MI:power board](https://thepihut.com/products/mi-power-board-for-the-bbc-micro-bit?variant=19935511812) so the micro:bit ran off a little battery rather than needing USB power.
 
-
-
 ![](images/IMG_20200603_161411-1024x768.jpg)
-
-
 
 Design skills! I'm not sure I have the diode the right way round. If it doesn't work just switch it. The 330Ω resistor may not be needed and the 10kΩ just needs to be big. These are just the ones I had to hand.
 
-
-
-
-
-
-
 ![](images/IMG_20200528_180757-1024x683.jpg)
-
-
 
 Check out my soldering skills!
 
-
-
-
-
-[This is the Python code to run on the micro:bit](http://www.hyam.net/blog/wp-content/uploads/2020/06/main.py_.zip)[Download](http://www.hyam.net/blog/wp-content/uploads/2020/06/main.py_.zip)
+[This is the Python code to run on the micro:bit](main.py_.zip)
 
 The way I turn microseconds into photographic time is as follows.
 

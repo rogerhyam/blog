@@ -50,7 +50,7 @@ The Opinions Survey gave the correlations between the scoring for the four quest
 
 This implies there is a quite strong correlation between the first three questions and a weak negative correlation with the anxiety question. The anxiety results interested me. Was it just because the scale switched from 10 being good to 0 being good and people didn't twig or was it showing something more meaningful? Would it be repeated in the larger Population Survey? I down loaded the data but I don't have the time, skills or software to produce correlation coefficients for a large complex data set like this. Instead of that I produced the plot of the Happy/Anxious questions below. Click the image for a larger version.
 
-[![](images/happy_anxious_visualisation-640x579.png "Happy/Anxious Visualisation")](http://www.hyam.net/blog/wp-content/uploads/2012/10/happy_anxious_visualisation.png)
+![](images/happy_anxious_visualisation-640x579.png "Happy/Anxious Visualisation")
 
  
 
@@ -142,13 +142,13 @@ Going back to the cholesterol analogy. If we asked people a series of factual qu
 
 ## Hasn't This Been Done Before
 
-Of course people have run surveys like this before. [John Hall](http://surveyresearch.weebly.com/) kindly pointed out one of his papers from 1976 ([Subjective measures of quality of life in Britain 1971 to 1975: Some developments and trends.](http://surveyresearch.weebly.com/uploads/2/9/9/8/2998485/hall_1976.pdf)) which discusses work that had been going on in the early 1970's in Briton and around the world. There was a lot going on. Talking about satisfaction questions he says:
+Of course people have run surveys like this before. [John Hall](http://surveyresearch.weebly.com/) kindly pointed out one of his papers from 1976 ([Subjective measures of quality of life in Britain 1971 to 1975: Some developments and trends.](http://surveyresearch.weebly.com/uploads/2/9/9/8/2998485/hall_1976.pdf)) which discusses work that had been going on in the early 1970's in Britain and around the world. There was a lot going on. Talking about satisfaction questions he says:
 
 > At sub-domain levels there is a high degree of sensitivity of reported satisfaction with a specific aspect of a domain to measurable differences in that aspect. At the global level of domain satisfaction these differences remain, but tend to be smaller; and **at the level of satisfaction with life as a whole they may disappear altogether**. \[My emphasis\]
 
 When people were asked about how satisfied they were with their bathroom arrangements there was a strong link to whether they had access to their own bath (this was the 1970's) but when asked if they were satisfied with life in general there was little link to specific objective measures of circumstance beyond absolute poverty. If we look at the results from asking people more or less the same question in the 1970's and today we get no surprises.
 
-[![](images/satisfaction_by_year.png "Overall Life Satisfaction By Year")](http://www.hyam.net/blog/wp-content/uploads/2012/09/satisfaction_by_year.png)
+![](images/satisfaction_by_year.png "Overall Life Satisfaction By Year")
 
 So government funded surveys in the 1970s ask people a general life satisfaction question and conclude that it is not a good question to ask. Nearly forty years later a government funded survey asks the same question and gets the same answer but then goes ahead and rolls that question out into a survey of over 160,000 people and gets the same answer. Framing, cognitive dissonance, illusory superiority and a lack of emotional literacy ensure the accompanying three questions will get near identical answers. I wonder how many more people will be asked these same questions and give the same answers before we stop asking them.
 

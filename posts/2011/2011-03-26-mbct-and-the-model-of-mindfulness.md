@@ -5,7 +5,7 @@ categories:
   - "mindfulness_buddhism"
 ---
 
-[![](images/Mindfulness_Map1-640x425.png "Mindfulness_Map")](http://www.hyam.net/blog/wp-content/uploads/2011/03/Mindfulness_Map1.png)This is a followup post discussing how Mindfulness Based Cognitive Therapy might map on to [A Model of Mindfulness](http://www.hyam.net/blog/archives/1141) and should be read in conjunction with that post.
+![](images/Mindfulness_Map1-640x425.png "Mindfulness_Map")This is a followup post discussing how Mindfulness Based Cognitive Therapy might map on to [A Model of Mindfulness](http://www.hyam.net/blog/archives/1141) and should be read in conjunction with that post.
 
 The modes of mind presented in [A Model of Mindfulness](/blog/archives/1141) were inspired by the model of mindfulness in depressive relapse proposed by (Segal, Williams, & Teasdale, 2002). The models are similar but there are some significant differences. In MBCT two modes of mind are recognised “Doing” mode and “Being” mode and the analogy of changing gear in a car is used for moving between these two modes. We can only be in one gear at a time.
 

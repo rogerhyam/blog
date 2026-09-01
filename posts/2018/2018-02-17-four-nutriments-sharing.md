@@ -7,7 +7,7 @@ categories:
 coverImage: "P1020621_Aperture_preview.jpg"
 ---
 
-[![](images/P1020621_Aperture_preview-1024x576.jpg)](http://www.hyam.net/blog/wp-content/uploads/2018/02/P1020621_Aperture_preview.jpg)
+![](images/P1020621_Aperture_preview-1024x576.jpg)
 
 This is a quick recording of my thoughts on the Four Nutriments discourse of the Buddha. I had written some notes and couldn't face typing the whole thing up so thought I'd try a recording.
 

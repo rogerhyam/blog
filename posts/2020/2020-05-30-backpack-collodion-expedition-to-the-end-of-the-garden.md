@@ -47,13 +47,13 @@ I scanned them in black and white on an Epson 800 resting on rubber tags a la [B
 
 
 
-- [![](images/plate_002-784x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2020/05/plate_002.jpg)
+- ![](images/plate_002-784x1024.jpg)
     
-- [![](images/plate_003-780x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2020/05/plate_003.jpg)
+- ![](images/plate_003-780x1024.jpg)
     
-- [![](images/plate_007-778x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2020/05/plate_007.jpg)
+- ![](images/plate_007-778x1024.jpg)
     
-- [![](images/plate_006-783x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2020/05/plate_006.jpg)
+- ![](images/plate_006-783x1024.jpg)
     
 
 

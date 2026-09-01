@@ -14,11 +14,11 @@ A bit of a wipeout month. The first few weeks I went down with a virus that made
 
 I still managed to walk in the garden each day I was at work. The autumn colours are stunning.
 
-[![](images/IMG_20171027_110251-1024x576.jpg)](http://www.hyam.net/blog/wp-content/uploads/2017/11/IMG_20171027_110251.jpg)
+![](images/IMG_20171027_110251-1024x576.jpg)
 
 Meanwhile in St Andrews Square they started setting up the Christmas ice rink and at the beginning of November even had an army recruitment/remembrance event! One of my shrines almost lost. It will be good practice to try and see the trees for the beer bierkellers over the next few months.
 
-[![](images/IMG_20171102_095630-1024x576.jpg)](http://www.hyam.net/blog/wp-content/uploads/2017/11/IMG_20171102_095630.jpg)
+![](images/IMG_20171102_095630-1024x576.jpg)
 
  
 

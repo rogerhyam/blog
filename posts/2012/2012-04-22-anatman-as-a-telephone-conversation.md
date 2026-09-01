@@ -5,7 +5,7 @@ categories:
   - "mindfulness_buddhism"
 ---
 
-[![](images/2012-04-07-12.10.56-Version-2-608x640.jpg "2012-04-07 12.10.56 - Version 2")](http://www.hyam.net/blog/wp-content/uploads/2012/04/2012-04-07-12.10.56-Version-2.jpg)
+![](images/2012-04-07-12.10.56-Version-2-608x640.jpg "2012-04-07 12.10.56 - Version 2")
 
 I was trying to explain the Buddhist notion of not-self or anātman to a friend and found myself using a new metaphor that I haven't heard before - the self as telephone conversation.
 

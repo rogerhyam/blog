@@ -5,7 +5,7 @@ categories:
   - "biodiv"
 ---
 
-[![](images/logo_small.png "logo_small")](http://www.hyam.net/blog/wp-content/uploads/2010/11/logo_small.png)Last year I did some work on a prototype system called speciesindex.org but have just taken it down and abandoned the idea. You may have reached this post via the speciesindex.org domain as it will probably resolve to here until I use it for something else.
+![](images/logo_small.png "logo_small")Last year I did some work on a prototype system called speciesindex.org but have just taken it down and abandoned the idea. You may have reached this post via the speciesindex.org domain as it will probably resolve to here until I use it for something else.
 
 Here is how speciesindex.org was described on its one and only page:<!--more-->
 
@@ -25,11 +25,11 @@ Here is how speciesindex.org was described on its one and only page:<!--more-->
 > 
 > There is no data held by speciesindex.org it is just a service so until data is made available that uses the Species Index URIs the service is more or less useless. [data.speciesindex.org](http://data.speciesindex.org/) has therefore been created to host seed data that makes use of the URIs and allows people to start creating ontologies and applications. Visit [data.speciesindex.org](http://data.speciesindex.org/) for usage examples.
 
-Here is a PDF of the whole page so you can read all the details if you like: [Species Index - A URI for every Taxon](http://www.hyam.net/blog/wp-content/uploads/2010/11/Species-Index-A-URI-for-every-Taxon.pdf)
+Here is a PDF of the whole page so you can read all the details if you like: [Species Index - A URI for every Taxon](Species-Index-A-URI-for-every-Taxon.pdf)
 
-Here is a PDF of the data.speciesindex.org page so you can see what was there: [Species Index - Data](http://www.hyam.net/blog/wp-content/uploads/2010/11/Species-Index-Data.pdf)
+Here is a PDF of the data.speciesindex.org page so you can see what was there: [Species Index - Data](Species-Index-Data.pdf)
 
-Here is a ZIP file of the all the code and the data that wasn't in a database: [Speciesindex Archive Zip](http://www.hyam.net/publications/speciesindex_archive.zip)
+Here is a ZIP file of the all the code and the data that wasn't in a database: [Speciesindex Archive Zip](speciesindex_archive.zip)
 
 I was thinking that I would introduce this concept at [TDWG 2010](http://www.tdwg.org/conference2010/) but realised that I would have to move  it away from using the TDWG vocabularies altogether  and onto using the core SKOS vocabulary to complete it. I didn't have a chance to do this prior to the meeting and I was not sure how my approach would go down. I decided to wait and judge the lie of the land before proceeding. I didn't have the energy to suggest that we could build a integrated global system based on existing vocabularies and not only not invent anything but also throw some stuff away. Generally we like to invent things at TDWG and definitely not throw things away.
 
@@ -43,13 +43,13 @@ For the past ten years I have been talking about biological classifications as i
 
 If we used SKOS a classification would look something like this:
 
-[![](images/skos_eg-640x490.png "SKOS Example 1")](http://www.hyam.net/blog/wp-content/uploads/2010/11/skos_eg.png)
+![](images/skos_eg-640x490.png "SKOS Example 1")
 
 This is a simple hierarchy of terms with a preferred label lacking a language tag as the actual Latin name (note the embedded markup) and synonyms and vernaculars as alternate labels - with language tags indicating which are vernaculars. We could make this a great deal more complex by using the SKOS label extensions to do homotypic type relationships but I would argue strongly that this is not worth the effort as these SKOS thesauri are the **products of taxonomy** and should only present a distillation of the process.
 
 The trouble is if you produce a SKOS thesaurus of your taxonomy and I produce a SKOS thesaurus of my taxonomy  and they overlap in some way we have no way of knowing it other than by matching the strings in the labels and by knowing about each other. A system that requires everyone globally to know about everyone else is doomed to failure. This is where speciesindex.org would come in. If we had a trusted third party we could both link to them and any consumer of our thesauri would know how WE thought they **might** be related.
 
-[![](images/skos_eg2-640x432.png "SKOS Example 2")](http://www.hyam.net/blog/wp-content/uploads/2010/11/skos_eg2.png)
+![](images/skos_eg2-640x432.png "SKOS Example 2")
 
 So what we do is link to a arbitrary concept that is based on the name. In the example above the author of the green classification thinks that his concept is narrower than the generic way the name is used whereas the author of the yellow classification thinks theirs matches it exactly.
 

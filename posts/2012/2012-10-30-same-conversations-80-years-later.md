@@ -5,7 +5,7 @@ categories:
   - "misc"
 ---
 
-[![](images/P1030731-1024x698.jpg "P1030731")](http://www.hyam.net/blog/wp-content/uploads/2012/10/P1030731.jpg)
+![](images/P1030731-1024x698.jpg "P1030731")
 
 I took a picture of this cartoon stuck in the window of Hatchard & Daughters, a book shop in Howarth, Yorkshire (Where the Brontës used to live and write). It made me laugh because it is exactly the same conversations that are going on today but, as you can see from the bottom right corner, this is dated March 31st 1933.
 

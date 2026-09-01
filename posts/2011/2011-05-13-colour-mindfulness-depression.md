@@ -5,7 +5,7 @@ categories:
   - "mindfulness_buddhism"
 ---
 
-[![](images/bangor_dunes-360x640.jpg "bangor_dunes")](http://www.hyam.net/blog/wp-content/uploads/2011/05/bangor_dunes.jpg)
+![](images/bangor_dunes-360x640.jpg "bangor_dunes")
 
 I chew through a lot of popular science writing on the web. It is nice to have someone dig out the sparky bits of research that may not hold up in the long run but that are fun to think about and just might be the next big thing.
 

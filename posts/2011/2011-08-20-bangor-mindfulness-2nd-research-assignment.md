@@ -8,11 +8,11 @@ categories:
 coverImage: "salt-marsh-Ile-de-Re-France.jpg"
 ---
 
-[![](images/salt-marsh-Ile-de-Re-France-640x360.jpg "salt marsh Ile de Re France")](http://www.hyam.net/blog/wp-content/uploads/2011/08/salt-marsh-Ile-de-Re-France.jpg)
+![](images/salt-marsh-Ile-de-Re-France-640x360.jpg "salt marsh Ile de Re France")
 
 Find attached my fourth and final assignment for the Bangor Mindfulness course. This one is for the Research module. It is supposed to be a description of a research project that you intend to do later in the course in a form close to what would be suitable for submission to the ethics panel.
 
-- [Research\_Assign\_Two\_blog\_version.pdf](http://www.hyam.net/blog/wp-content/uploads/2011/08/Research_Assign_Two_blog_version.pdf)
+- [Research\_Assign\_Two\_blog\_version.pdf](Research_Assign_Two_blog_version.pdf)
 
 The proposal makes reference to a prototype application I developed that you can access at  [http://breathfollower.appspot.com/](<http://breathfollower.appspot.com/ >) if you would like to try it for yourself. I have done some work to take this further as a mobile application and will blog on it if I get it to a state worthy of release.
 

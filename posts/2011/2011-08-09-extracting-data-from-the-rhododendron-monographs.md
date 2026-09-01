@@ -8,7 +8,7 @@ tags:
   - "rhododendron"
 ---
 
-[![](images/rhodo_page-1024x580.png "rhodo_page")](http://www.hyam.net/blog/wp-content/uploads/2011/08/rhodo_page.png)
+![](images/rhodo_page-1024x580.png "rhodo_page")
 
 This post deals with the semantics of extraction of data from the _Rhododendron_ monographs. Another post will deal with the technicalities of the actual extraction.
 

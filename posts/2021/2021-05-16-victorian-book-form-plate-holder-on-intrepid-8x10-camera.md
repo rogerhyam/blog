@@ -11,7 +11,7 @@ I've got a routine going of pouring my own 4x5" gelatine silver plates and then 
 
 
 
-[![](images/PXL_20210501_092057713-1024x768.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/05/PXL_20210501_092057713-scaled.jpg)
+![](images/PXL_20210501_092057713-1024x768.jpg)
 
 
 
@@ -23,7 +23,7 @@ I built the adapter to replace the whole back of the Intrepid by layering 3mm pl
 
 
 
-[![](images/PXL_20210430_204808774-961x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/05/PXL_20210430_204808774-scaled.jpg)
+![](images/PXL_20210430_204808774-961x1024.jpg)
 
 
 
@@ -35,7 +35,7 @@ Key thing was to get magnets in my back to match the polarity of those in the In
 
 
 
-[![](images/PXL_20210502_165028497-768x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/05/PXL_20210502_165028497-scaled.jpg)
+![](images/PXL_20210502_165028497-768x1024.jpg)
 
 
 
@@ -47,7 +47,7 @@ I then araldited them in place and sanded off the mess when it had dried.
 
 
 
-[![](images/PXL_20210515_103437033-1022x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/05/PXL_20210515_103437033-scaled.jpg)
+![](images/PXL_20210515_103437033-1022x1024.jpg)
 
 
 
@@ -59,7 +59,7 @@ I bought a set of 3 immaculate plate holders from eBay for £65. (I also bought 
 
 
 
-[![](images/PXL_20210516_131835411-942x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/05/PXL_20210516_131835411-scaled.jpg)
+![](images/PXL_20210516_131835411-942x1024.jpg)
 
 
 
@@ -71,7 +71,7 @@ I made a plywood frame to hold the focus screen, which I ground myself. Distance
 
 
 
-[![](images/PXL_20210515_085408822-1024x768.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/05/PXL_20210515_085408822-scaled.jpg)
+![](images/PXL_20210515_085408822-1024x768.jpg)
 
 
 
@@ -83,7 +83,7 @@ With some sanding and messing about the holders fit snuggly and didn't appear to
 
 
 
-[![](images/PXL_20210515_110220342-895x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/05/PXL_20210515_110220342-scaled.jpg)
+![](images/PXL_20210515_110220342-895x1024.jpg)
 
 
 
@@ -95,7 +95,7 @@ The plates looked great, although I need to work on my pouring technique for lar
 
 
 
-[![](images/PXL_20210516_124645996-813x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2021/05/PXL_20210516_124645996-scaled.jpg)
+![](images/PXL_20210516_124645996-813x1024.jpg)
 
 
 

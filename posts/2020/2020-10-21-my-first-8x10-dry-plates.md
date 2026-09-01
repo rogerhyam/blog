@@ -12,7 +12,7 @@ https://youtu.be/Nyoz0G8Ftk8
 
 
 
-[![](images/img20201021_21373948-819x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2020/10/img20201021_21373948.jpg)
+![](images/img20201021_21373948-819x1024.jpg)
 
 
 
@@ -22,11 +22,11 @@ A familiar tree. 20 minute exposure at f/22
 
 
 
-[![](images/PXL_20201021_130331008-1024x768.jpg)](http://www.hyam.net/blog/wp-content/uploads/2020/10/PXL_20201021_130331008-scaled.jpg)
+![](images/PXL_20201021_130331008-1024x768.jpg)
 
 
 
-[![](images/img20201021_22000980-789x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2020/10/img20201021_22000980.jpg)
+![](images/img20201021_22000980-789x1024.jpg)
 
 
 

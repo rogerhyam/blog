@@ -6,13 +6,13 @@ categories:
   - "misc"
 ---
 
-[![](images/2012-04-28-15.51.05-1024x193.jpg "2012-04-28 15.51.05")](http://www.hyam.net/blog/wp-content/uploads/2012/04/2012-04-28-15.51.05.jpg)
+![](images/2012-04-28-15.51.05-1024x193.jpg "2012-04-28 15.51.05")
 
 Yesterday we all got on our bikes to [Pedal on Parliament](http://pedalonparliament.org/) and protest at the disproportionate cuts to the active travel budgets. Basically everyone admits that Scotland would be a better place if we built our roads so that it was safer to cycle but it is very difficult to get it prioritised over creating more motorist centric facilities. The rally also remembered those who have been killed on our roads - including two cyclists in Edinburgh this year already. Lets hope that no one we know is the third.
 
 I was rather dreading that there would be a handful of us and it would rain but the sun shone and there was a massive turnout. Around 2,000 cyclists as confirmed by the police.<!--more--> Now it is Sunday morning and I turn to the web to see what coverage there is in the press. Lets look at Scotland on Sunday, The Scotsman and Edinburgh Evening News on-line. To get some perspective here is a snapshot taken from Google Maps.
 
-[![](images/pedal_on_parliament.png "pedal_on_parliament")](http://www.hyam.net/blog/wp-content/uploads/2012/04/pedal_on_parliament.png)
+![](images/pedal_on_parliament.png "pedal_on_parliament")
 
 The 'A' marker is the location of the whiz-bang high tech Scotsman Publications offices. The 'X' marker is where the photo at the head of the page was taken. I guess that is less than 300 yards away. The action took place at 3pm on Saturday 29th April. As I write the Scotsman has [an article of some 294 words](http://www.scotsman.com/news/brown-backs-cycle-group-campaign-1-2261742) that was written at 10:58am! Yes that is right in the morning before it happens. I guess the journalist then went home and they don't have anyone working on a Saturday afternoon. So why should I pay for a physical version of this paper? Of course there may be more coverage on Monday in the Scotsman and the Edinburgh Evening news. It was certainly a good photo opp for a local paper but this is hardly hot news gathering is it. They manage to cover football matches so they could cover demo's if they wanted. I suspect there were journalist working in that building and they litterally didn't look out the window but just carried on cutting and pasting things off the web.
 

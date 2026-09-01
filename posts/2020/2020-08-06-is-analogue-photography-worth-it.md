@@ -7,7 +7,7 @@ categories:
 coverImage: "wet-plate_film_digital-scaled.jpg"
 ---
 
-[![](images/wet-plate_film_digital-1024x449.jpg)](http://www.hyam.net/blog/wp-content/uploads/2020/08/wet-plate_film_digital-scaled.jpg)
+![](images/wet-plate_film_digital-1024x449.jpg)
 
 The combined image above shows three photographs I made over the course of an afternoon and evening. I had my wet-plate collodion set up running and wanted to refine how I made glass plate negatives specifically for scanning. Once I had what I felt was a successful wet-plate negative it occured to me that I could easily make a film negative for comparison. And of course once I had both negatives scanned I thought I should add a digitally captured version into the mix.
 
@@ -19,7 +19,7 @@ The result is a set of images that become progressively "clinical" in appearance
 
 
 
-[![](images/img20200805_19542338-2_smaller-791x1024.jpeg)](http://www.hyam.net/blog/wp-content/uploads/2020/08/img20200805_19542338-2_smaller.jpeg)
+![](images/img20200805_19542338-2_smaller-791x1024.jpeg)
 
 
 
@@ -33,7 +33,7 @@ A really skilled wet-plate practitioner should be able to make plates that resem
 
 
 
-[![](images/img20200806_10033914_small-796x1024.jpeg)](http://www.hyam.net/blog/wp-content/uploads/2020/08/img20200806_10033914_small.jpeg)
+![](images/img20200806_10033914_small-796x1024.jpeg)
 
 
 
@@ -47,7 +47,7 @@ So is analogue photography worth it? This question is unanswerable. Firstly it d
 
 
 
-[![](images/P_RH0529_smaller-769x1024.jpeg)](http://www.hyam.net/blog/wp-content/uploads/2020/08/P_RH0529_smaller.jpeg)
+![](images/P_RH0529_smaller-769x1024.jpeg)
 
 
 

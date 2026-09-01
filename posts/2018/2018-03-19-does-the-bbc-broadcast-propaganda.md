@@ -6,7 +6,7 @@ categories:
 coverImage: "DSCF6540.jpg"
 ---
 
-[![](images/DSCF6540-1024x576.jpg)](http://www.hyam.net/blog/wp-content/uploads/2018/03/DSCF6540.jpg)
+![](images/DSCF6540-1024x576.jpg)
 
 I'm teaching myself to make podcasts. Like many things this is harder than I thought but I like learning stuff and the way I force myself to get on with it is to share what I'm doing. This morning I put together a podcast that chops up a BBC news bulletin. This is a cunning plan as I get to see how the BBC constructed a segment of audio whilst I try and construct mine. I have a long way to go. Give it a listen and let me know what you think.
 

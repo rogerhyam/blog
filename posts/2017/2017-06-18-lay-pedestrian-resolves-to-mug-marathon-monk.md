@@ -7,7 +7,7 @@ categories:
 coverImage: "20170617-DSCF6615.jpg"
 ---
 
-[![](images/20170617-DSCF6615-1024x576.jpg)](http://www.hyam.net/blog/wp-content/uploads/2017/06/20170617-DSCF6615.jpg)
+![](images/20170617-DSCF6615-1024x576.jpg)
 
 By far the most common metaphor for a life is that of a journey. After all it has a beginning, middle and end. It appears to go through different terrain, run at different paces and our paths often cross. Sometimes we leave things behind. Sometimes we can't. But we can confuse a metaphor with the thing we are describing or worse slip from metaphor to analogy. It is a mistake to assume that because we can **describe** life as  a journey it **actually is like** a journey.
 
@@ -19,7 +19,7 @@ People tell me they don't like ritual. Usually they say it on retreats when we h
 
 What if I walked to work 200 times a year for the next decade and forgot to enjoy it? What a tragedy that would be! I therefore need to build a ritual that transforms that activity into something really special. I'm going to steal that ritual from the Marathon Monks of Mount Hiei in Japan.
 
-\[caption id="attachment\_3466" align="aligncenter" width="747"\][![](images/1024px-Homenzinhos_de_barro_8196334011-1024x680.jpg)](http://www.hyam.net/blog/wp-content/uploads/2017/06/1024px-Homenzinhos_de_barro_8196334011.jpg) Photo: Leandro Neumann Ciuffo \[CC BY\] via Wikimedia Commons\[/caption\]
+\[caption id="attachment\_3466" align="aligncenter" width="747"\]![](images/1024px-Homenzinhos_de_barro_8196334011-1024x680.jpg) Photo: Leandro Neumann Ciuffo \[CC BY\] via Wikimedia Commons\[/caption\]
 
 ### Marathon Monk Posts by Date
 

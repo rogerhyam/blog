@@ -10,7 +10,7 @@ When I'm out with a plate camera people often stop and ask me what I'm doing. I 
 
 
 
-[![](images/PXL_20220717_092558649-1024x287.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/12/PXL_20220717_092558649-scaled.jpg)
+![](images/PXL_20220717_092558649-1024x287.jpg)
 
 
 
@@ -42,7 +42,7 @@ What I do is based on the period from 1871 to the mid 1880s where photographers 
 
 
 
-[![](images/You_press_the_button_we_do_the_rest_Kodak.jpeg)](http://www.hyam.net/blog/wp-content/uploads/2022/12/You_press_the_button_we_do_the_rest_Kodak.jpeg)
+![](images/You_press_the_button_we_do_the_rest_Kodak.jpeg)
 
 
 

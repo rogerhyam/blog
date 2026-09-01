@@ -15,7 +15,7 @@ Here are a sequence that tell the tail of the first exposure.
 
 
 
-[![](images/DSCF0503-1024x683.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/04/DSCF0503.jpg)
+![](images/DSCF0503-1024x683.jpg)
 
 
 
@@ -27,7 +27,7 @@ Vageeswari as it came
 
 
 
-[![](images/DSCF0504-1024x683.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/04/DSCF0504.jpg)
+![](images/DSCF0504-1024x683.jpg)
 
 
 
@@ -39,7 +39,7 @@ As is common no focus screen
 
 
 
-[![](images/DSCF0526-1024x683.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/04/DSCF0526.jpg)
+![](images/DSCF0526-1024x683.jpg)
 
 
 
@@ -51,7 +51,7 @@ Four plate holders were of varying condition and much was covered in dark wood s
 
 
 
-[![](images/DSCF0517-1024x683.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/04/DSCF0517.jpg)
+![](images/DSCF0517-1024x683.jpg)
 
 
 
@@ -63,7 +63,7 @@ Note the V.C.W. (Vageeswari Camera Works)
 
 
 
-[![](images/DSCF0499-1024x683.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/04/DSCF0499.jpg)
+![](images/DSCF0499-1024x683.jpg)
 
 
 
@@ -75,7 +75,7 @@ The base was for traditional field tripod with three separate legs.
 
 
 
-[![](images/PXL_20220409_160340756-1024x932.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/04/PXL_20220409_160340756-scaled.jpg)
+![](images/PXL_20220409_160340756-1024x932.jpg)
 
 
 
@@ -87,7 +87,7 @@ I did a load of cleaning of the stain but not to the extent of making it "perfec
 
 
 
-[![](images/PXL_20220409_160440303-1024x1016.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/04/PXL_20220409_160440303-scaled.jpg)
+![](images/PXL_20220409_160440303-1024x1016.jpg)
 
 
 
@@ -99,7 +99,7 @@ A new ground glass screen was relatively straightforward. Most screws are rusted
 
 
 
-[![](images/PXL_20220409_160539971-768x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/04/PXL_20220409_160539971-scaled.jpg)
+![](images/PXL_20220409_160539971-768x1024.jpg)
 
 
 
@@ -111,9 +111,9 @@ The lens board was, of course, not any standard size although it had an ingeniou
 
 
 
-[![](images/PXL_20220409_160104998-1024x976.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/04/PXL_20220409_160104998-scaled.jpg)
+![](images/PXL_20220409_160104998-1024x976.jpg)
 
-[![](images/PXL_20220409_160135918-1024x992.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/04/PXL_20220409_160135918-scaled.jpg)
+![](images/PXL_20220409_160135918-1024x992.jpg)
 
 
 
@@ -125,7 +125,7 @@ It is a difficult thing to store so I made two storage/transport boxes for the c
 
 
 
-[![](images/PXL_20220312_121914991-1024x768.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/04/PXL_20220312_121914991-scaled.jpg)
+![](images/PXL_20220312_121914991-1024x768.jpg)
 
 
 
@@ -137,7 +137,7 @@ First light! It's been cold and windy but I had to try one shot using my Symmar 
 
 
 
-[![](images/PXL_20220312_130240284-793x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/04/PXL_20220312_130240284-scaled.jpg)
+![](images/PXL_20220312_130240284-793x1024.jpg)
 
 
 

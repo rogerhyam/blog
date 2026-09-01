@@ -9,7 +9,7 @@ I was trying to explain how secular mindfulness worked to a friend and I drew th
 
 This blog post presents the model. As time permits I will create other posts that discuss the relationship between this model and those proposed in the literature. I'll link to all subsequent posts from this one.
 
-[![](images/Mindfulness_Map-1024x680.png "Mindfulness_Map")](http://www.hyam.net/blog/wp-content/uploads/2011/03/Mindfulness_Map.png)
+![](images/Mindfulness_Map-1024x680.png "Mindfulness_Map")
 
 ## The Model
 

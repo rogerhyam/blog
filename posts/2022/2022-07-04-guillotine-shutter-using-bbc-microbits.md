@@ -9,11 +9,11 @@ coverImage: "photo_editor_ds_1656918086773.jpg"
 
 I got covid so had to stay at home for ten days. I couldn't really work due to the brain fog. It was like having very bad jet lag and I didn't want to mess with production servers in that state. But you can only sleep so much and so I worked on this low input project. It was something I could do for about an hour a day with things I had to hand.
 
-[![](images/PXL_20220703_143035379-1024x768.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/07/PXL_20220703_143035379.jpg)
+![](images/PXL_20220703_143035379-1024x768.jpg)
 
 Guillotine shutters are just what the name implies. A shutter in the form of a gravity driven guillotine. They can either be implemented as two plates that slide down one after another (the delay between release governing the exposure time) or a single plate with a slit in it (the width of the slit governing the exposure time). Mine is the former kind aimed at exposure of several seconds or more on my own simple silver gelatine plates. It only achieves what I can do by simply removing and replacing the lens cap except I can control it remotely now.
 
-[![](images/PXL_20220703_143237867-1024x768.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/07/PXL_20220703_143237867.jpg)
+![](images/PXL_20220703_143237867-1024x768.jpg)
 
 The slide is plywood joined to a cut down Cokin-P filter holder with epoxy resin. The release mechanism is a BBC micro:bit and a small servo run off two AA batteries - a total of three component.
 
@@ -33,7 +33,7 @@ The remote is a second BBC micro:bit in a case and powered by a button cell. The
 
 
 
-[![](images/photo_editor_ds_1656918086773-1024x768.jpg)](http://www.hyam.net/blog/wp-content/uploads/2022/07/photo_editor_ds_1656918086773.jpg)
+![](images/photo_editor_ds_1656918086773-1024x768.jpg)
 
 
 

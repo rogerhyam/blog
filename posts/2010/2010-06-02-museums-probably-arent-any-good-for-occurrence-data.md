@@ -9,11 +9,11 @@ Checking the news this morning I came across an interesting article that implied
 
 This paper on data bias was particularly interesting but probably for the wrong reasons.<!--more--> The authors repeatedly make the case for museums being a good source of data and, by implication, being a good source of occurrence data. I don't think this is true and, because they kindly published their data, I have the opportunity to show my thinking with two graphs.
 
-\[caption id="attachment\_877" align="aligncenter" width="640" caption="Number of Occurrence Records Per Decade For Each Data Source"\][![](images/charts.002-640x480.jpg "Figure 1")](http://www.hyam.net/blog/wp-content/uploads/2010/06/charts.002.jpg)\[/caption\]
+\[caption id="attachment\_877" align="aligncenter" width="640" caption="Number of Occurrence Records Per Decade For Each Data Source"\]![](images/charts.002-640x480.jpg "Figure 1")\[/caption\]
 
 This first graph shows a plotting of Boakes e_t al_'s data to show how many occurrence records were created for species of Galliformes (partridges, pheasants, and quails) in each decade from each type of data source they considered (total around 140k records. I have omitted the handful of records prior to 1720). It can be seen that there is a very large peak in the 1980s for the atlas type data source. I believe this is due to very few publications and skew the results quite a lot so lets look at the same graph without that data source.
 
-\[caption id="attachment\_878" align="aligncenter" width="640" caption="Occurrence Records Per Decade For Each Data Source (Atlas removed)"\][![](images/charts.003-640x480.jpg "Figure 2")](http://www.hyam.net/blog/wp-content/uploads/2010/06/charts.003.jpg)\[/caption\]
+\[caption id="attachment\_878" align="aligncenter" width="640" caption="Occurrence Records Per Decade For Each Data Source (Atlas removed)"\]![](images/charts.003-640x480.jpg "Figure 2")\[/caption\]
 
 I have also truncated the second graph at 1800 - nothing much happens in the data before that point. You can see the big peak in museum records from the mid 19th century to the mid 20th century - the age of discovery!
 
@@ -23,7 +23,7 @@ I am **not** saying museums are unimportant (they are crucial for taxonomy and s
 
 It would not be acceptable to publish a paper suggesting one form of data gathering should be favoured over another - especially if that recommendation might lead to even less funding for cash strapped museums and herbaria. Data from websites and ringing studies are rising rapidly.  As the authors point out highly automated data gathering is the future. But what they don't say is the negative side of this - that we should not waste too much time trying to read older specimen labels - unless we are actually revising the taxonomy and even then the value is debatable.
 
-The data I used to plot these graphs is available as => [plotting\_data.csv](http://www.hyam.net/blog/wp-content/uploads/2010/06/plotting_data.csv_.zip)
+The data I used to plot these graphs is available as => [plotting\_data.csv](plotting_data.csv_.zip)
 
 \[EDIT 8/6/2010\]
 

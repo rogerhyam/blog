@@ -6,7 +6,7 @@ categories:
 coverImage: "IMG_20181012_085526-1.jpg"
 ---
 
-[![](images/IMG_20181012_085526-1-1024x576.jpg)](http://www.hyam.net/blog/wp-content/uploads/2018/10/IMG_20181012_085526-1.jpg) Twelve years ago we moved into our flat in Edinburgh with our two daughters who were six and a four years old. We aren't fussy about decor but the fibreglass bath looked like it was about to crack and would have to be changed really soon. This week, just after one of those daughters has left to go to university, I finally took some time off work to fit a new bath. You can see from the picture it isn't fancy but with the wood panelling and all it took four days and lots of cursing.
+![](images/IMG_20181012_085526-1-1024x576.jpg) Twelve years ago we moved into our flat in Edinburgh with our two daughters who were six and a four years old. We aren't fussy about decor but the fibreglass bath looked like it was about to crack and would have to be changed really soon. This week, just after one of those daughters has left to go to university, I finally took some time off work to fit a new bath. You can see from the picture it isn't fancy but with the wood panelling and all it took four days and lots of cursing.
 
 [In the news this week](https://www.theguardian.com/environment/2018/oct/08/global-warming-must-not-exceed-15c-warns-landmark-un-report) was the latest announcement from the IPCC on how little time we have to act to avert climate breakdown. A hot bath a couple of times a week is my climate vice so as I filled my new bath for the first time I was feeling extra bad. Did this one seem a bit bigger than the old one? But then my rational mind kicked in and I decided to calculate just how bad for the planet this was and get my guilt in perspective.
 

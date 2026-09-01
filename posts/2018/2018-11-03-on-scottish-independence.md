@@ -6,7 +6,7 @@ categories:
 coverImage: "Image-1-030-2.jpg"
 ---
 
-[![](images/Image-1-030-2-1024x352.jpg)](http://www.hyam.net/blog/wp-content/uploads/2018/11/Image-1-030-2.jpg)
+![](images/Image-1-030-2-1024x352.jpg)
 
 1. Scotland is a country.
 2. Countries choose their own governments.
