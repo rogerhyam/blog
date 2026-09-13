@@ -19,7 +19,7 @@ I don't think this would get through on Wikipedia. "Research has shown" are weas
 
 To show how ridiculous the fish oil claim - that people in Japan are less depressed because they eat more fish -  real is consider the graph below (taken from the [EqualityTrust.org.uk](http://www.equalitytrust.org.uk/) site - a great site go and [donate now)](https://www.e-activist.com/ea-campaign/clientcampaign.do?ea.client.id=118&ea.campaign.id=3741).
 
-\[caption id="attachment\_808" align="aligncenter" width="640" caption="Income Inequality vs Mental Health from Equality Trust"\][![Income Inequality vs Mental Health from Equality Trust](images/mental-health-640x459.gif "mental-health")](http://www.equalitytrust.org.uk/why/evidence/mental-health)\[/caption\]
+![Income Inequality vs Mental Health from Equality Trust](images/mental-health-640x459.gif "mental-health")](http://www.equalitytrust.org.uk/why/evidence/mental-health)
 
 It shows that there is a correlation between mental health and inequality and that New Zealand is a 'worse' place than Japan for mental health 'because' NZ is a more unequal society. Is there are causal link between fish consumption and income inequality I wonder?
 

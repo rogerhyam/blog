@@ -2,6 +2,7 @@
 title: Posts from 2026
 year: 2026
 tags: year-page
+styleClass: indexPage
 eleventyExcludeFromCollections: ["post", "2026"]
 ---
 

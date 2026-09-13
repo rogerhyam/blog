@@ -26,6 +26,6 @@ Our minds crave patterns. We see faces in the carpet. Clouds become animals. We 
 
 In my next post I'll talk about a Marathon Monk who isn't a monk and doesn't run marathons.
 
-### Marathon Monk Posts by Date
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+
+

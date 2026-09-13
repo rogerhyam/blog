@@ -2,6 +2,7 @@
 title: Posts from 2019
 year: 2019
 tags: year-page
+styleClass: indexPage
 eleventyExcludeFromCollections: ["post", "2019"]
 ---
 

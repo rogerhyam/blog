@@ -1,54 +1,63 @@
-body{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 0px;
+
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
+body, html {
+  height: 100%;
+  color: #777;
+  line-height: 1.8;
 }
 
-main{
-    max-width: 50em;
-    margin:auto;
+/* Create a Parallax Effect */
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
 }
 
-main img{
-    max-width: 100%;
-    filter: drop-shadow(2px 2px 2px black);
-    margin:auto;
+/* First image (Logo. Full height) */
+.bgimg-1 {
+  background-image: url('parallax1.jpg');
+  min-height: 100%;
 }
 
-main p img{
-     display: block;
-     margin:auto;
+/* Second image (Portfolio) */
+.bgimg-2 {
+  background-image: url("parallax2.jpg");
+  min-height: 300px;
 }
 
-#banner{
-    background-color: rgba(9, 41, 12, 1);
-    overflow: hidden;
-    padding: 1em;
-    color: white;
+/* Third image (Contact) */
+.bgimg-3 {
+  background-image: url("parallax3.jpg");
+  min-height: 300px;
 }
 
-#banner a{
-    text-decoration: none;
-    color:white;
+/* Third image (Contact) */
+.bgimg-4 {
+  background-image: url("parallax4.jpg");
+  min-height: 300px;
 }
 
-#yearSelect{
-    border-bottom: solid 2px rgba(9, 41, 12, 0.5);
-    margin-bottom: 1em;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
-    padding-left: 1em;
-    text-align: left;
+.w3-wide {letter-spacing: 10px;}
+.w3-hover-opacity {cursor: pointer;}
+
+.hyam-project{
+ 
 }
 
-#yearSelect a{
-    text-decoration: none;
-    color: rgba(9, 41, 12, 1);
-}
-#yearSelect a:hover{
-    color: rgba(9, 41, 12, 0.5);
+.hyam-project p img{
+  max-width:100%;
+  max-height: 90vh;
 }
 
-#nextPrev{
-    padding-top: 3em;
-    padding-bottom: 8em;
+/* Turn off parallax scrolling for tablets and phones 
+@media only screen and (max-device-width: 1600px) {
+  .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+    background-attachment: scroll;
+    min-height: 400px;
+  }
 }
+*/
+
+

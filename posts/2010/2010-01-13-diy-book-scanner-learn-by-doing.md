@@ -8,7 +8,7 @@ tags:
   - "ebooks"
 ---
 
-\[caption id="attachment\_771" align="alignleft" width="161" caption="Almost Free Scanner"\][![Simple Scanner](images/IMG_2384.jpg "Simple Scanner")](http://www.hyam.net/blog/wp-content/uploads/2010/01/IMG_2384.jpg)\[/caption\]
+![Simple Scanner](images/IMG_2384.jpg "Simple Scanner")](http://www.hyam.net/blog/wp-content/uploads/2010/01/IMG_2384.jpg)
 
 In the last weekend of the Christmas break I was sat in Starbucks in Waterstones in Edinburgh considering which of a stack of potential books I was going to spend my Christmas book tokens on. I had just been playing with a Sony eBook reader and so was thinking maybe I should take the plunge and go digital with books as well as the rest of my life.
 
@@ -23,7 +23,7 @@ Most of the plans on [diybookscanner.org](http://www.diybookscanner.org/) are pr
 
 Setting up involves lying on the floor on your back to focus the camera and line it up with the page. This may be the usability issue that will prevent me commercialising it!
 
-\[caption id="attachment\_778" align="alignright" width="150" caption="Example Page Image"\][![DSC\_1693](images/DSC_1693-150x150.jpg "DSC_1693")](http://www.hyam.net/blog/wp-content/uploads/2010/01/DSC_1693.JPG)\[/caption\]
+![DSC\_1693](images/DSC_1693-150x150.jpg "DSC_1693")](http://www.hyam.net/blog/wp-content/uploads/2010/01/DSC_1693.JPG)
 
 In operation I have an electronic cable release on the floor that I press with my big toe keeping both hands free to manipulate the book. I take the right page, turn the book round and take the left page (the other way up), pick the book up and turn the page, repeat right and left. I did a 228 page book in under 30 minutes like this. The book was _Gotama The Buddha_ by Ananda Coomaraswamy which I believe is out of copyright.
 

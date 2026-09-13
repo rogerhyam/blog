@@ -14,12 +14,12 @@ coverImage: "20170925-DSCF6612-copy.jpg"
 
 September has been a busy busy month with many distractions around running the [Project Soothe Exhibition](https://stories.rbge.org.uk/archives/26356). Rewarding but tiring. As I reached the end of the month the walking is getting to my physically an I miss a few days by jumping on the bus to get home.
 
-\[caption id="attachment\_3571" align="aligncenter" width="747"\]![](images/DSCF6594-1024x683.jpg) With Stella Chan as we open Project Soothe Expo\[/caption\]
+![](images/DSCF6594-1024x683.jpg) With Stella Chan as we open Project Soothe Expo
 
-\[caption id="attachment\_3573" align="aligncenter" width="747"\]![](images/20170922-DSCF6600-1024x682.jpg) Middle Meadow walk is looking as stunning as ever.\[/caption\]
+![](images/20170922-DSCF6600-1024x682.jpg) Middle Meadow walk is looking as stunning as ever.
 
  
 
-### Marathon Monk Posts by Date
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+
+

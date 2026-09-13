@@ -7,7 +7,7 @@ categories:
 coverImage: "CYSWxBmUsAI65S5.jpg-large.jpeg"
 ---
 
-\[caption id="attachment\_3161" align="alignleft" width="362"\][![CYSWxBmUsAI65S5.jpg-large](images/CYSWxBmUsAI65S5.jpg-large-362x640.jpeg)](http://www.hyam.net/blog/wp-content/uploads/2016/01/CYSWxBmUsAI65S5.jpg-large.jpeg) Hallelujah! Photo: [@edbeltane](https://twitter.com/edbeltane)\[/caption\]
+! Photo: [@edbeltane](https://twitter.com/edbeltane)
 
 Today I gave my three minute presentation in the [FameLab](http://www.famelab.org) Scottish Final at the National Museum of Scotland in Edinburgh having got through the [Edinburgh heat](http://www.hyam.net/blog/archives/3057). Needless to say I didn't win. But reflecting on the whole experience I think it was very worthwhile.  Even after treating myself to sticky cake and a book from Blackwells to recover I can't quite bring myself to say it was 'fun'. Maybe fun like going for a run on a cold, wet, windy day is fun. Bracing. Invigorating. You know what I mean.
 

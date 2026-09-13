@@ -24,6 +24,6 @@ Meanwhile in St Andrews Square they started setting up the Christmas ice rink an
 
  
 
-### Marathon Monk Posts by Date
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+
+

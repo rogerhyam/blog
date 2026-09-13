@@ -19,8 +19,8 @@ People tell me they don't like ritual. Usually they say it on retreats when we h
 
 What if I walked to work 200 times a year for the next decade and forgot to enjoy it? What a tragedy that would be! I therefore need to build a ritual that transforms that activity into something really special. I'm going to steal that ritual from the Marathon Monks of Mount Hiei in Japan.
 
-\[caption id="attachment\_3466" align="aligncenter" width="747"\]![](images/1024px-Homenzinhos_de_barro_8196334011-1024x680.jpg) Photo: Leandro Neumann Ciuffo \[CC BY\] via Wikimedia Commons\[/caption\]
+![](images/1024px-Homenzinhos_de_barro_8196334011-1024x680.jpg) Photo: Leandro Neumann Ciuffo \[CC BY\] via Wikimedia Commons
 
-### Marathon Monk Posts by Date
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+
+

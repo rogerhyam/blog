@@ -19,4 +19,4 @@ After a glorious sunny week camping in the Highlands with family and without mid
 
 Looking to the next year I think I need to focus on my physical health. At the current rate it will take me another fiver years to complete the 1,000 walks and I'm not getting any younger. I need to look to my diet. On the solstice I was just in the overweight category with a BMI of 25.5 at 14 st 3 lbs (that is 199 lbs or 90 kg in new money) and believe me very little of that is muscle. So I'll add a little of my dietary thoughts and weight to my monthly reports form now on.
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+

@@ -6,7 +6,7 @@ categories:
 coverImage: "Edinburgh-Labyrinth-e1399107174488.jpg"
 ---
 
-\[caption id="attachment\_2391" align="alignright" width="227"\][![Edinburgh Labyrinth](images/Edinburgh-Labyrinth-e1399107174488-524x640.jpg)](http://www.hyam.net/blog/wp-content/uploads/2014/05/Edinburgh-Labyrinth.jpg) Edinburgh Labyrinth\[/caption\]
+![Edinburgh Labyrinth](images/Edinburgh-Labyrinth-e1399107174488-524x640.jpg)](http://www.hyam.net/blog/wp-content/uploads/2014/05/Edinburgh-Labyrinth.jpg) Edinburgh Labyrinth
 
 Life can feel as if it is made up of a series of episodes; as if we are living from moment to moment. This is an illusion. There is only one, all encompassing moment. We are fooled because we don't pay attention to it the whole time.
 

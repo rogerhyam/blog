@@ -9,11 +9,11 @@ coverImage: "whole_scotland_small.jpg"
 
 This is an image of Scotland that I created as part of my job. The green is [Normalised Difference Vegetation Index](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index) which is basically the difference between red and near infra-red light as seen by a satellite. This image is a composite of around one hundred and fifty satellite passes over three summers. The sensor on the satellite was a push-broom scanner like in a photocopier. The data is processed by USGS before people like me download it for our own analyses. The big question: Is this a photograph?
 
-\[caption id="attachment\_3802" align="aligncenter" width="986"\]![](images/whole_scotland_small.jpg) NDVI Composite satellite image over OpenStreetMap data of Scotland\[/caption\]
+![](images/whole_scotland_small.jpg) NDVI Composite satellite image over OpenStreetMap data of Scotland
 
 This is an image I created at the weekend using a large format camera, Illford printing paper as the negative then scanned into a computer. Is this a photograph?
 
-\[caption id="attachment\_3803" align="aligncenter" width="808"\]![](images/Untitled-5-808x1024.jpg) Wilting flowers\[/caption\]
+![](images/Untitled-5-808x1024.jpg) Wilting flowers
 
 I've never really cared whether photography is art or not. The only reason anyone cares about that is if there is money it. But recently I've started to care about a difference between "real" photography and computational imaging. Check out this show reel of visual effects from [The Man in the High Castle](https://www.imdb.com/title/tt1740299/). I'm a big fan and of course knew that there were a lot of VFX but not that there was quite so much! Kudos to the actors for the green screen performances.
 

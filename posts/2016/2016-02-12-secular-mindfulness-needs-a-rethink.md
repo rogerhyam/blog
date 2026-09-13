@@ -6,7 +6,7 @@ categories:
 coverImage: "IMG_20160205_154027_PerfectlyClear.jpg"
 ---
 
-\[caption id="attachment\_3223" align="aligncenter" width="620"\][![IMG\_20160205\_154027\_PerfectlyClear](images/IMG_20160205_154027_PerfectlyClear-1024x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2016/02/IMG_20160205_154027_PerfectlyClear.jpg) Mindful walking in a natural cathedral one feels a connection with totality.\[/caption\]
+![IMG\_20160205\_154027\_PerfectlyClear](images/IMG_20160205_154027_PerfectlyClear-1024x1024.jpg)](http://www.hyam.net/blog/wp-content/uploads/2016/02/IMG_20160205_154027_PerfectlyClear.jpg) Mindful walking in a natural cathedral one feels a connection with totality.
 
 I've been reading Christian literature again. This is an odd experience. Thomas Merton, C.S. Lewis and now Abbot Christopher Jamison have been working to make me a better Buddhist.
 

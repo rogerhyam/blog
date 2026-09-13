@@ -10,4 +10,4 @@ coverImage: "Dad-025-scaled.jpg"
 
 It's been a patching three months. Been on a work trip for a week, a retreat and been ill but when I can I've still be doing the walk. Craving solitude just now. Not feeling like writing.
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+

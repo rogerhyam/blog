@@ -161,4 +161,4 @@ One gorgeous June day I took my Hasselblad SWC wide angle camera and photographe
 
 
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+

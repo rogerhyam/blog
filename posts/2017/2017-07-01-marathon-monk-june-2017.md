@@ -14,6 +14,6 @@ I managed a marathon every working day to the end of June so 8 days, 48 miles to
 
 Next month I'm on holiday for a week - walking in the Lake District so some lovely time for practice but not as part of the project.
 
-### Marathon Monk Posts by Date
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+
+

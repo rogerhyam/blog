@@ -20,17 +20,17 @@ _The Anticipation_ is a fixed focus box camera with a Angulon 90mm. I intended t
 
 I started in the garden with a scene including bright sunlight and some deep shadow. I metered the scene through the opal to get a Zone V (ISO 12) exposure of a complete sheet (f11, 1/4 sec) then I closed it down three stops to Zone II (f45, 1/4 sec) for a second sheet. Then I exposed the scene without pre-flash placing the shadow under the bench on Zone II which made the buildings in the sun fall on Zone VIII then again with a pre-flash.
 
-\[caption id="attachment\_3678" align="aligncenter" width="806"\]![](images/pre-flash-806x1024.jpg) Bottom left pre-flash Zone II. Bottom right pre-flash Zone V. Top left no pre-flash. Top right pre-flashed.\[/caption\]
+![](images/pre-flash-806x1024.jpg) Bottom left pre-flash Zone II. Bottom right pre-flash Zone V. Top left no pre-flash. Top right pre-flashed.
 
 By eye I couldn't see any tone in the brief pre-flashed sheet. The longer pre-flash was off-white but didn't look uneven as it does in the scan. Clearly the pre-flashed scene is way better than the non-pre-flashed.
 
-\[caption id="attachment\_3679" align="aligncenter" width="1024"\]![](images/pre-flash_invert-1024x642.jpg) Left pre-flashed. Right not pre-flashed. Note focus OK for branch bottom right!\[/caption\]
+![](images/pre-flash_invert-1024x642.jpg) Left pre-flashed. Right not pre-flashed. Note focus OK for branch bottom right!
 
 Looking at the results I wonder whether I remembered to stop down for the pre-flash of the scene.
 
 ## Test 2: Still Life
 
-\[caption id="attachment\_3685" align="alignright" width="150"\]![](images/pre-flash_0-7-150x150.jpg) No pre-flash & 7s pre-flash. Uncropped.\[/caption\]
+![](images/pre-flash_0-7-150x150.jpg) No pre-flash & 7s pre-flash. Uncropped.
 
 I set up a still life on kitchen table. Placing the table, just in front of the jug, on Zone V (ISO 12) f22, 30s. I made four exposures:
 

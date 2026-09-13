@@ -13,6 +13,6 @@ Just to reiterate I'm not a monk and I'm not running 26.219 mile marathons - whi
 
 This is the Marathon Monk Index page so the associated posts can be read in an order that makes sense rather than backward blog order.
 
-### Marathon Monk Posts by Date
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+
+

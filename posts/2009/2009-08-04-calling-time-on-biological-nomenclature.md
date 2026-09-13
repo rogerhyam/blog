@@ -5,7 +5,7 @@ categories:
   - "biodiv"
 ---
 
-\[caption id="attachment\_517" align="alignleft" width="267" caption="Gathering Storm"\][![Gathering Storm](images/img_1933.jpg "Gathering Storm")](http://www.hyam.net/blog/wp-content/uploads/2009/08/img_1933.jpg)\[/caption\]
+![Gathering Storm](images/img_1933.jpg "Gathering Storm")](http://www.hyam.net/blog/wp-content/uploads/2009/08/img_1933.jpg)
 
 I was writing a report on the role of nomenclators in [PESI](http://www.hyam.net/blog/archives/472) when I realized that (with a little tweaking and injection of dangerous opinions) one section would make a good blog post.
 

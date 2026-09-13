@@ -15,4 +15,4 @@ It has been a beautiful month. The trees and birds have been very welcoming. At 
 
 Next month I'll complete the first year of the project. It doesn't look like I'll have made either 200 days or 1,000 miles which was my projection for the year - but it is what it is and I can live with that. I'll be close though. If nothing unexpected happens I should pass the 1,000 mile mark before the end of June.
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+

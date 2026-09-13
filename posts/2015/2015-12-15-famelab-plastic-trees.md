@@ -6,7 +6,7 @@ categories:
 coverImage: "CV876G2W4AAcBmA.jpg-large.jpg"
 ---
 
-\[caption id="attachment\_3058" align="alignright" width="251"\][![CV876G2W4AAcBmA.jpg-large](images/CV876G2W4AAcBmA.jpg-large-480x640.jpg)](http://www.hyam.net/blog/wp-content/uploads/2015/12/CV876G2W4AAcBmA.jpg-large.jpg) Throttling a cheese cake? Photo: Dawn Smith\[/caption\]
+![CV876G2W4AAcBmA.jpg-large](images/CV876G2W4AAcBmA.jpg-large-480x640.jpg)](http://www.hyam.net/blog/wp-content/uploads/2015/12/CV876G2W4AAcBmA.jpg-large.jpg) Throttling a cheese cake? Photo: Dawn Smith
 
 A few weeks back [Edinburgh Beltane Public Engagement Network](http://www.beltanenetwork.org) offered a free day of presentation skills training with [Mel Sherwood](http://www.grow-your-potential.com/index.php). When I say free I mean it was free to participants in [FameLab UK](http://www.cheltenhamfestivals.com/about/famelab/). Yes there was lunch and yes it was notionally a "free lunch" so I should have been a little more on my guard.
 

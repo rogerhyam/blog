@@ -27,7 +27,7 @@ There is a cooking analogy. You may love cooking and find that by buying in cert
 
 Is this a common theme in our modern lives? Might it be that it is not our jobs that the robots will take but our truly fulfilling pleasures?
 
-\[caption id="attachment\_3667" align="aligncenter" width="510"\]![](images/selfie-510x640.jpeg) Pinhole self portrait. 4 minute exposure on windy day on Harman Direct Positive Paper in camera of duct tape, foam core board and a piece of Pepsi Max drinks can\[/caption\]
+![](images/selfie-510x640.jpeg) Pinhole self portrait. 4 minute exposure on windy day on Harman Direct Positive Paper in camera of duct tape, foam core board and a piece of Pepsi Max drinks can
 
 Of course I'm not letting go of digital. This is a photo in the kitchen this morning whilst I was waiting for the kettle to boil. Just sometimes one has to chop ones own carrots.
 

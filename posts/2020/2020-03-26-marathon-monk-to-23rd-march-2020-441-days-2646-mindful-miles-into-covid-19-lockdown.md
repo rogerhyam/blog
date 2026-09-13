@@ -25,4 +25,4 @@ Then Covid-19 arrives. On 18th March I was told to work at home. On 23rd the cou
 
 Could this be what ends the marathon monk project? We all have the wonderful opportunity of a few weeks to reflect. This an official pause of the project. Over two and half thousand miles so something to be proud of.
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+

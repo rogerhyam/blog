@@ -20,4 +20,4 @@ The walking continues, sometimes interrupted by circumstances. The first week of
 
 ![](images/thing-2-1022x1024.jpg)
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+

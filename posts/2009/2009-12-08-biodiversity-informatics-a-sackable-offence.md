@@ -5,7 +5,7 @@ categories:
   - "biodiv"
 ---
 
-\[caption id="attachment\_736" align="alignleft" width="194" caption="Tremendous energy is required to re-animate the dead."\][![Frankenstein's Monster Required tremendous energy to re-animate.](images/Frankensteins_monster_Boris_Karloff-478x640.jpg "Frankenstein's Monster (Boris_Karloff)")](http://www.hyam.net/blog/wp-content/uploads/2009/12/Frankensteins_monster_Boris_Karloff.jpg)\[/caption\]
+![Frankenstein's Monster Required tremendous energy to re-animate.](images/Frankensteins_monster_Boris_Karloff-478x640.jpg "Frankenstein's Monster (Boris_Karloff)")](http://www.hyam.net/blog/wp-content/uploads/2009/12/Frankensteins_monster_Boris_Karloff.jpg)
 
 At last month's [TDWG2009](http://www.tdwg.org/conference2009/) conference I was on a panel for a brief discussion at the end of a session. There were around 200 people in the audience and handful of us up front as lambs for the slaughter.
 

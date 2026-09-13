@@ -22,4 +22,4 @@ My walk at the Botanics with my 100 year old Voigtländer camera
 
 Not much to say this month. Very crowded with the festival. Such a relief when the posters come down.
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+

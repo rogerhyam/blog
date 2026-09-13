@@ -22,7 +22,7 @@ Pick a date, any date. I pick this one. A nice astronomical date. This is when t
 
 **Total Duration:** Monks have a strict seven year schedule. I think I'll do about 200 a year so may be complete in five years. If I haven't finished by my sixtieth birthday I'll consider it a failure (I'm 52).
 
-\[caption id="attachment\_3477" align="aligncenter" width="747"\]![](images/IMG_20170619_090006-1024x551.jpg) Three Sisters "shrine" in George Square\[/caption\]
+![](images/IMG_20170619_090006-1024x551.jpg) Three Sisters "shrine" in George Square
 
 **Visiting Shrines:** There are 250 shrines on Mount Hiei that the monks visit and offer prayers to. There aren't quite that many shrines in Edinburgh but there are a number of points on my route where I will do a formal nature connection practice - the [Ten Breaths Practice](http://amzn.eu/4ghdE12). I'll write more on this as time passes.
 
@@ -32,6 +32,6 @@ Pick a date, any date. I pick this one. A nice astronomical date. This is when t
 
 The monks have 1,000 years of tradition to draw on. I have a few scattered sources about what they do but am largely making up my own thing to help me develop in my practice. It will evolve but hope to stay true to the spirit of compassionate self development. If I lose that I'll quit.
 
-### Marathon Monk Posts by Date
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+
+

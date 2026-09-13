@@ -21,4 +21,4 @@ In doing my four foundations practice - working through body sensations, feeling
 
 Looking forward to April. The clocks have changed and the sun is out.
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+

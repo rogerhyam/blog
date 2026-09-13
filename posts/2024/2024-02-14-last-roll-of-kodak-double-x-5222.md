@@ -5,7 +5,7 @@ categories:
   - "photography"
 tags: 
   - "instagram"
-coverImage: "img20240212_21314094.jpg"
+thumbnail: "images/img20240212_21314094-1024x573.jpg"
 ---
 
 Double X is movie film stock manufactured since the 1950s and never officially sold for stills. The smallest lengths available are 400 ft reels that cost around £250. It is perfectly feasible, if time consuming, to manually split these down into 36 exposure rolls. You get about seventy from a 400 ft length. That is £3.60 a roll or 10p a shot which is pretty good value. The downside is that it is quite a commitment. You have to love the stuff to shoot seventy rolls of it.

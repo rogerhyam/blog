@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/style/blog.css" rel="stylesheet">
+
+    <title>Roger Hyam: {{ title }}</title>
+    <meta name="description" content="{{ date | date: '%A %d %B %Y', 'UCT' }} - {{ title }} - Roger Hyam">
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="https://www.hyam.net/blog{{page.url}}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Roger Hyam: {{ title }}">
+    <meta property="og:description" content="{{ date | date: '%A %d %B %Y', 'UCT' }} - {{ title }} - Roger Hyam">
+    <meta property="og:image" content="{{ thumbnail | default: "https://www.hyam.net/images/banner.jpg" }}">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://www.hyam.net/">
+    <meta name="twitter:title" content="Roger Hyam: {{ title }}">
+    <meta name="twitter:description" content="{{ date | date: '%A %d %B %Y', 'UCT' }} - {{ title }} - Roger Hyam">
+    <meta name="twitter:image" content="{{ thumbnail | default: "https://www.hyam.net/images/banner.jpg" }}">
+
+    <link rel="icon" href="/images/icon-192x192.jpg" sizes="192x192">
+    <link rel="icon" href="/images/icon-32x32.jpg" sizes="32x32">
+    <link rel="apple-touch-icon" href="/images/icon-180x180.jpg">
+
+</head>
+<body>
+  
+    <div id="banner">
+        <a href="/">Roger Hyam</a>
+        :
+        <a href="/posts/">The Blog</a>
+    </div>
+    <div id="yearSelect">
+       
+        {% for post in collections.year-page reversed %}
+        <a href="{{post.url}}">{{post.data.year}}</a>
+        {%- if forloop.last != true -%}
+            &nbsp;-  
+        {%- endif -%}
+        {% endfor %}
+
+
+    </div>
+    <main class="{{ styleClass }}" >
+    <p id="postDate">{{ date | date: '%A %d %B %Y', 'UCT' }}</p>
+    <h1>{{ title }}</h1>
+
+    {{ content }}
+    
+    <div id="nextPrev" >
+        {% assign previousPost = collections.post | getPreviousCollectionItem %}
+        {% assign nextPost = collections.post | getNextCollectionItem %}
+        {% if previousPost %}<a href="{{ previousPost.url }}" style="float:left;">&lt;- {{ previousPost.data.title }}</a>{% endif %}
+        {% if nextPost %}<a href="{{ nextPost.url }}" style="float:right;">{{ nextPost.data.title }} -&gt;</a> {% endif %}
+    </div>
+
+    </main>
+
+    <script src="/scripts/main.js"></script>
+</body>
+
+</html>

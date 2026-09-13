@@ -6,7 +6,7 @@ categories:
   - "photography"
 ---
 
-\[caption id="attachment\_2119" align="aligncenter" width="640"\][![princes\_street\_04](images/princes_street_04-640x400.jpeg)](http://www.hyam.net/blog/wp-content/uploads/2014/01/princes_street_04.jpeg) See a better version of this [here](http://www.hyam.net/blog/archives/2193)!\[/caption\]
+!
 
 I have not blogged for a while. I'm not sure if the urge has left me or if I just haven't found time. There seem to be too many words in the world so I'd like to move to doing more visual stuff and this tends to be sucked into [my Flickr stream](http://www.flickr.com/photos/rogerhyam/) rather than my blog.
 

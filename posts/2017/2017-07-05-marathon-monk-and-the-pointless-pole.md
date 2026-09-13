@@ -33,6 +33,6 @@ My current story for the pole is about impermanence. I'm sure once I've written 
 
 <iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m13!1m11!1m3!1d492.23368800200285!2d-3.187353496641524!3d55.94986541779755!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2suk!4v1499284862757" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-### Marathon Monk Posts by Date
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+
+

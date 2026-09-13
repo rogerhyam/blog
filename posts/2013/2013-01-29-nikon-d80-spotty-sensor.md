@@ -15,11 +15,11 @@ It appears worse in shots with plain backgrounds. It must be sensor dust right. 
 
 Below is a shot of a plain piece of paper (apart from the pencil cross for focus and alignment) at f32 a 1:1 crop. There is a cloud of dots around the centre of the frame. This is before I started cleaning.
 
-\[caption id="attachment\_1913" align="aligncenter" width="640"\][![F32 - Start (1)](images/F32-Start-1-640x425.jpg)](http://www.hyam.net/blog/wp-content/uploads/2013/01/F32-Start-1.jpg) F32 Prior To Cleaning\[/caption\]
+![F32 - Start (1)](images/F32-Start-1-640x425.jpg)](http://www.hyam.net/blog/wp-content/uploads/2013/01/F32-Start-1.jpg) F32 Prior To Cleaning
 
 I then exposed the sensor and tried blowing it clean with a [Giotos rocket](http://www.giottos.com/Rocket-air.htm) and retook the test shot but it made no difference. Next I used a [VisibleDust](http://www.visibledust.com/) sensor cleaning swab with VDust Plus solution and gently stroked across the sensor twice - like you would do to remove some dust. It made no difference other than one or two actual bits of dust were removed! I did another swab but more vigorously crossed the sensor eight times to no effect. Finally I used a third swab, got it quite wet with solution and gave it as good a scrubbing as I could (quiet gentle but you know what I mean). And the final result was....no change. If you look at the image below the pattern is just the same.
 
-\[caption id="attachment\_1912" align="aligncenter" width="640"\][![F32 - After Cleaning (1)](images/F32-After-Cleaning-1-640x425.jpg)](http://www.hyam.net/blog/wp-content/uploads/2013/01/F32-After-Cleaning-1.jpg) F32 After Cleaning\[/caption\]
+![F32 - After Cleaning (1)](images/F32-After-Cleaning-1-640x425.jpg)](http://www.hyam.net/blog/wp-content/uploads/2013/01/F32-After-Cleaning-1.jpg) F32 After Cleaning
 
 I conclude this is not dust. I also conclude that it is not oil. The VDust Plus is supposed to be good for all contaminants and so I would imagine that it would make at least some dent in the pattern if the spots were oil. I would expect some of the faint spots to go and/or some of the heavier ones to get fainter but neither happens. The cloud of spots is suspiciously regular and right in the middle of the sensor. There are other examples of this pattern on the inter-web.
 

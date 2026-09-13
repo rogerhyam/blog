@@ -11,6 +11,6 @@ Finally coming to the end of taking excess holiday allowance. Married Gustaf and
 
 ![](images/DSCF6638-copy-1024x1024.jpg)
 
-### Marathon Monk Posts by Date
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+
+

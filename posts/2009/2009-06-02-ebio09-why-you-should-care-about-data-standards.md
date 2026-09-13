@@ -5,7 +5,7 @@ categories:
   - "biodiv"
 ---
 
-\[caption id="attachment\_496" align="alignleft" width="288" caption="Westminster Abbey"\][![Westminster Abbey](images/westminster_abbey-480x640.jpg "westminster_abbey")](http://www.hyam.net/blog/wp-content/uploads/2009/06/westminster_abbey.jpg)\[/caption\]
+![Westminster Abbey](images/westminster_abbey-480x640.jpg "westminster_abbey")](http://www.hyam.net/blog/wp-content/uploads/2009/06/westminster_abbey.jpg)
 
 I just gave a talk at [e-Biosphere '09](http://www.e-biosphere09.org/) . This was a 15 minute talk to possibly the largest audience I have ever addressed (400ish). Several people asked for copies of the slides so here it is as a PDF.
 

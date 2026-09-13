@@ -23,6 +23,6 @@ April was more like a 'normal' month. I've started to feel like I'm in the swing
 
 May is going to be a busy month. I'm running my regular workshops at the botanics as well as helping out on Tuesday and Thursday mornings in George Square. The 16th to the 23rd I'm off to Holy Isle for a retreat.
 
-\[catlist name="project-marathon-monk" orderby="date" order="ASC" numberposts=100  \]
+
 
 ![](images/mindful_walking-724x1024.jpg)

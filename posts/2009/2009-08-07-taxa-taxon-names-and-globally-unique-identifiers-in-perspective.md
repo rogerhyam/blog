@@ -5,7 +5,7 @@ categories:
   - "biodiv"
 ---
 
-\[caption id="attachment\_532" align="alignleft" width="282" caption="Tring the Fox"\][![Tring the Fox](images/tring_the_fox-1-428x640.jpg "Tring the Fox")](http://www.hyam.net/blog/wp-content/uploads/2009/08/tring_the_fox-1.jpg)\[/caption\]
+![Tring the Fox](images/tring_the_fox-1-428x640.jpg "Tring the Fox")](http://www.hyam.net/blog/wp-content/uploads/2009/08/tring_the_fox-1.jpg)
 
 Here is the first draft of a book chapter I have written for an upcoming [Systematics Association](http://www.systass.org/) volume. My intention with this work is to outline the current situation with regard to taxonomy and GUIDs for a slightly more general audience. It includes a walkthough of the difference between nomenclature and taxonomy and an explanation of why nomenclature "sucks" - I don't actually use the 's' word in the chapter.
 

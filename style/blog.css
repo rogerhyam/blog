@@ -1,0 +1,93 @@
+body{
+    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: Lucida Sans Typewriter;
+    margin: 1em;
+}
+
+h1, h2, h3, h4, h5{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main{
+    max-width: 50em;
+    margin:auto;
+}
+
+main img{
+    max-width: 100%;
+    filter: drop-shadow(2px 2px 2px black);
+    margin:auto;
+}
+
+main p img{
+     display: block;
+     margin: auto;
+}
+
+#banner{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 122%;
+    font-weight:400;
+    background-color: rgb(83, 83, 83);
+    overflow: hidden;
+    padding: 1em;
+    color: white;
+    margin: -1em;
+}
+
+#banner a{
+    text-decoration: none;
+    color:white;
+}
+
+#yearSelect{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-bottom: solid 2px rgba(9, 41, 12, 0.5);
+    margin-bottom: 1.2em;
+    margin-top: 1em;
+    margin-left: -1em;
+    margin-right: -1em;
+    margin-top: 1em;
+    
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    text-align: left;
+}
+
+#yearSelect a{
+    text-decoration: none;
+    color: rgba(9, 41, 12, 1);
+}
+#yearSelect a:hover{
+    color: rgba(9, 41, 12, 0.5);
+}
+
+#nextPrev{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 3em;
+    padding-bottom: 8em;
+}
+
+#postDate{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
+.indexPage ul{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 2em;
+    list-style: none; /* remove the dots */
+    padding-left: 0px;
+    border-top: 1px gray solid;
+}
+
+.indexPage ul li{
+    border-bottom: 1px gray solid;
+}
+
+.indexPage a{
+    text-decoration: none;
+}

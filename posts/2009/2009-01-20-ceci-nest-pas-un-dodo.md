@@ -5,7 +5,7 @@ categories:
   - "biodiv"
 ---
 
-\[caption id="attachment\_411" align="alignleft" width="284" caption="Dodo"\][![Dodo](images/dodo.jpg "dodo")](http://www.hyam.net/blog/wp-content/uploads/2009/05/dodo.jpg)\[/caption\]
+![Dodo](images/dodo.jpg "dodo")](http://www.hyam.net/blog/wp-content/uploads/2009/05/dodo.jpg)
 
 With apologies to René Magritte.
 

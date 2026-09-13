@@ -12,13 +12,13 @@ It was 20 years ago today, not that Sgt Pepper taught the band to play but that 
 
 I've always had a thing about J.K. Not in the way you might think but in the fact that we live in parallel universes. We were born about 10 miles apart in the West of England and six months apart in that vintage year of 1965. My wife claims many greats were born in 1965 - in her case it was August.
 
-\[caption id="attachment\_1924" align="alignright" width="249"\]![](images/Roger-640x568.jpg) Collecting Hairy Rhodies in China c.1995\[/caption\]
+![](images/Roger-640x568.jpg) Collecting Hairy Rhodies in China c.1995
 
 By the mid 1990s J.K. and I were both in Edinburgh working to complete our pet projects and frequenting the blooming coffee shops. My pet project was a PhD on the molecular phylogenetics of _Rhododendron_ subgenus _Hymenanthes_ (those are the hairy not scaly temperate ones). J.K. was finishing the first Harry Potter. Now I must dodge the tourists taking selfies outside the Elephant House cafe one of the "birthplaces" of Harry Potter. There is a big sign in the window proclaiming the fact but no mention of my PhD thesis even though my frontispiece credits them by stealing their logo.
 
 We have never actually met but J.K. has always been there in the background like Jesus in the Life of Brian. I'm definitely Brian and J.K. is definitely Jesus in this metaphor.
 
-\[caption id="attachment\_2746" align="alignright" width="149"\]![](images/David-C-427x640.jpg) David Chamberlain\[/caption\]
+![](images/David-C-427x640.jpg) David Chamberlain
 
 In the last twenty years I've had a series of jobs and am lucky enough to be back at the botanics on a persistent contract albeit with a 1% pay cap and not much chance of progression. J.K. has become a multi-millionaire. I'm not sure if she has found a religion but, as can be seen from the frontispiece, I was getting into Buddhism even back then. She wrote all those Harry Potter books. I read them. She invented Dumbledore. David Chamberlain supervised my PhD. She had kids at much the same ages as mine. Her kids go to some private school in Edinburgh, mine go to a good state school and like most kids in Edinburgh know someone who knows someone who is friends with J.K.'s kids.
 
