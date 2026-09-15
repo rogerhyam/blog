@@ -1,5 +1,5 @@
 ---
-title: Gallery Page
+title: "Gallery Page"
 styleClass: indexPage
 layout: gallery.html
 ---

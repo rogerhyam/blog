@@ -1,5 +1,5 @@
 ---
-title: Posts from 2026
+title: 2026
 year: 2026
 tags: year-page
 styleClass: indexPage

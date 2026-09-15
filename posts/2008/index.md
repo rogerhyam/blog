@@ -1,5 +1,5 @@
 ---
-title: Posts from 2008
+title: 2008
 year: 2008
 tags: year-page
 styleClass: indexPage

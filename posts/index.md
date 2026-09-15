@@ -1,10 +1,15 @@
 ---
-title: Roger's Blog
+title: Blog
 styleClass: indexPage
 layout: blog.html
+eleventyExcludeFromCollections: ["post"]
 ---
 
-This place is an eclectic mix of posts on different subjects. It contains opinions (and some facts) on biodiversity informatics, mindfulness, Buddhism, photography, politics, media and stuff in general. These are the publications from a one man think tank with no budget and no time. Occasionally the spelling is correct and the English is quite good - see if you can spot when.
+This place is an eclectic mix of posts on different subjects. It contains opinions (and some facts) on biodiversity informatics, mindfulness, Buddhism, photography, politics, media and stuff in general. I'm a one man "think tank" with no budget and no time. Occasionally the spelling is correct and the English is quite good - see if you can spot when.
+
+![Portrait using Ilford photo paper as a negative, 2021](/images/portrait_2021.jpg)
+
+__Portrait using Ilford photo paper as a negative, 2021__
 
 There are posts going back nearly two decades. Some are embarrassing and make me cringe but I've left them in. Some don't work anymore because they are based on technologies that have disappeared.
 
